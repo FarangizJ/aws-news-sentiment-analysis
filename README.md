@@ -37,6 +37,7 @@ Specifically:
 ---
 
 ### 📰 3. Data Sources
+
 English Article (ScienceDaily)
 
 “Doctors are seeing more aggressive breast cancer in younger women”
@@ -48,12 +49,6 @@ Uzbek Article (Zamin.uz)
 “Ko‘krak bezi saratoni — sabablari, belgilari va uni davolash”
 
 URL: https://zamin.uz/uz/tibbiyot/139371-kokrak-bezi-saratoni-sabablari-belgilari-hamda-uni-davolash.html
-
-Video Sources (for AWS Transcribe)
-
-https://www.youtube.com/watch?v=GsvYYGg8qEE
-
-https://www.youtube.com/watch?v=R6OR_SpmAGI
 
 ---
 
@@ -179,7 +174,7 @@ python3 scripts/plot_charts.py
 
 This section outlines how each AWS service and script contributed to the full analytical pipeline.
 
-8.1 Web Scraping (scripts/scrape_articles.py)
+**8.1 Web Scraping (scripts/scrape_articles.py)**
 
 Both articles were scraped using:
 
@@ -212,7 +207,7 @@ clean_text = "\n\n".join(paragraphs)
 save_to_file(path, clean_text)
 upload_to_s3(path, s3_key)
 ```
-8.2 Translation Using AWS Translate (scripts/translate_text.py)
+**8.2 Translation Using AWS Translate (scripts/translate_text.py)**
 
 The Uzbek article was translated into English using AWS Translate:
 ```
@@ -223,7 +218,7 @@ response = translate.translate_text(
 )
 translated = response["TranslatedText"]
 ```
-8.3 Sentiment & Entity Analysis (scripts/sentiment_analysis.py)
+**8.3 Sentiment & Entity Analysis (scripts/sentiment_analysis.py)**
 
 AWS Comprehend has a strict input limit:
 ➡ Max 5,000 bytes per request
@@ -233,7 +228,7 @@ Therefore, a custom-safe chunking system was implemented:
 def chunk_text_by_bytes(text, max_bytes=4500):
     ...
 ```
-8.4 Visualization (scripts/plot_charts.py)
+**8.4 Visualization (scripts/plot_charts.py)**
 
 The charting script loads the JSON results and creates:
 
@@ -248,9 +243,11 @@ Saved into /charts/*.png.
 ---
 
 ### 📊 9. Results & Visualizations
-9.1 Sentiment Comparison
+
+**9.1 Sentiment Comparison**
 ![9.1 Sentiment Comparison: ](image.png)
-English article:
+
+| *English article:*
 
 Extremely high Neutral
 
@@ -258,18 +255,18 @@ Slight Positive and very minimal Negative
 
 Typical for scientific reporting
 
-Uzbek article (after translation):
+| *Uzbek article (after translation):*
 
 Also Neutral-dominant
 
 Slightly more Mixed and Positive due to its instructional tone
 
 ---
-9.2 Entity Type Frequency Comparison
+**9.2 Entity Type Frequency Comparison**
 
 ![alt text](image-1.png)
 
-English article entities focus on:
+| *English article entities focus on:*
 
 QUANTITY (1,290 women, 11-year span, etc.)
 
@@ -279,7 +276,7 @@ LOCATION (Western New York region)
 
 MEDICAL_CONDITION
 
-Uzbek article entities focus on:
+| *Uzbek article entities focus on:*
 
 ANATOMY (breast, tissue, mammary gland)
 
@@ -295,10 +292,11 @@ Uzbek = personal health, symptoms, prevention, treatment guidance
 
 ---
 
-9.3 Key Phrases Comparison
+**9.3 Key Phrases Comparison**
 
 ![alt text](image-2.png)
-English emphasizes:
+
+| *English emphasizes:*
 
 “cancer cases”
 
@@ -308,7 +306,7 @@ English emphasizes:
 
 “screening guidelines”
 
-Uzbek emphasizes:
+| *Uzbek emphasizes:*
 
 “risk factors”
 
@@ -321,17 +319,18 @@ Uzbek emphasizes:
 ---
 
 ### 🧠 10. Interpretation & Discussion
+
 Health Communication Style Differences
 
 **🇺🇸 English (ScienceDaily):**
 
-More clinical, research-driven
+- More clinical, research-driven
 
-Heavy usage of numbers, data, organizations
+- Heavy usage of numbers, data, organizations
 
-Neutral emotional tone
+- Neutral emotional tone
 
-Focus on younger women, trends, tumor aggressiveness
+- Focus on younger women, trends, tumor aggressiveness
 
 **🇺🇿 Uzbek (Zamin.uz):**
 
@@ -339,27 +338,27 @@ More educational + practical
 
 Emphasis on:
 
-early detection
+- early detection
 
-symptoms
+- symptoms
 
-treatment options
+- treatment options
 
-prevention
+- prevention
 
-Less statistical, more public-health focused
+- Less statistical, more public-health focused
 
 Why this matters
 
 Differences in media framing influence:
 
-public awareness
+- public awareness
 
-preventive behavior
+- preventive behavior
 
-urgency in seeking medical help
+- urgency in seeking medical help
 
-cultural interpretations of disease
+- cultural interpretations of disease
 
 This analysis shows how language + media style shape health communication.
 
@@ -383,9 +382,9 @@ This project shows how AWS serverless AI tools can be used to compare medical re
 
 Both articles are neutral, but differ strongly in messaging style.
 
-English → statistical, academic, tumor behavior focus.
+**English → statistical, academic, tumor behavior focus.**
 
-Uzbek → practical, symptom-focused, prevention-driven.
+**Uzbek → practical, symptom-focused, prevention-driven.**
 
 AWS Translate + Comprehend make cross-language health communication analysis feasible and scalable.
 
@@ -393,10 +392,10 @@ The entire pipeline costs ≈ $0.10.
 
 Cloud-based NLP opens the door for:
 
-misinformation detection
+- misinformation detection
 
-public health research
+- public health research
 
-multilingual media comparison
+- multilingual media comparison
 
-cultural communication studies
+- cultural communication studies
