@@ -134,8 +134,6 @@ translate:TranslateText
 
 comprehend:DetectSentiment, DetectKeyPhrases, DetectEntities
 
-(if using Transcribe) transcribe:*
-
 Do not commit your AWS credentials into the repo or README. Always keep them private.
 
 1) Install Python deps
