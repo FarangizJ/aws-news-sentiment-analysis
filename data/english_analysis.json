@@ -1,0 +1,2942 @@
+{
+  "summary": {
+    "dominant_sentiment": "Neutral",
+    "sentiment_scores": {
+      "Positive": 0.0045155542936373225,
+      "Negative": 0.0015742693275400026,
+      "Neutral": 0.9934753377568202,
+      "Mixed": 0.00043481691695486884
+    },
+    "key_phrases": [
+      {
+        "Text": "cancer",
+        "Score": 0.9999871253967285
+      },
+      {
+        "Text": "cancers",
+        "Score": 0.9999861717224121
+      },
+      {
+        "Text": "cases",
+        "Score": 0.9999854564666748
+      },
+      {
+        "Text": "women",
+        "Score": 0.9999850988388062
+      },
+      {
+        "Text": "the annual meeting",
+        "Score": 0.9999801516532898
+      },
+      {
+        "Text": "1,290 women",
+        "Score": 0.9999773502349854
+      },
+      {
+        "Text": "a 200-mile area",
+        "Score": 0.9999765157699585
+      },
+      {
+        "Text": "this group",
+        "Score": 0.999975323677063
+      },
+      {
+        "Text": "the average age",
+        "Score": 0.9999733567237854
+      },
+      {
+        "Text": "specific situations",
+        "Score": 0.9999723434448242
+      },
+      {
+        "Text": "the study",
+        "Score": 0.9999721646308899
+      },
+      {
+        "Text": "an 11-year span",
+        "Score": 0.9999656677246094
+      },
+      {
+        "Text": "western new york",
+        "Score": 0.9999656081199646
+      },
+      {
+        "Text": "the cancer",
+        "Score": 0.9999631643295288
+      },
+      {
+        "Text": "a larger scale",
+        "Score": 0.9999607801437378
+      },
+      {
+        "Text": "the number",
+        "Score": 0.9999599456787109
+      },
+      {
+        "Text": "their tumors",
+        "Score": 0.9999586939811707
+      },
+      {
+        "Text": "the new york region",
+        "Score": 0.9999586343765259
+      },
+      {
+        "Text": "an analysis",
+        "Score": 0.9999579787254333
+      },
+      {
+        "Text": "the american cancer society",
+        "Score": 0.9999561905860901
+      },
+      {
+        "Text": "these findings",
+        "Score": 0.9999507665634155
+      },
+      {
+        "Text": "this patient population",
+        "Score": 0.9999504685401917
+      },
+      {
+        "Text": "patients",
+        "Score": 0.9999490976333618
+      },
+      {
+        "Text": "their goal",
+        "Score": 0.9999488592147827
+      },
+      {
+        "Text": "a significant proportion",
+        "Score": 0.9999450445175171
+      },
+      {
+        "Text": "the case",
+        "Score": 0.9999436736106873
+      },
+      {
+        "Text": "seven outpatient centers",
+        "Score": 0.9999434351921082
+      },
+      {
+        "Text": "this research",
+        "Score": 0.9999433755874634
+      },
+      {
+        "Text": "this time",
+        "Score": 0.999940812587738
+      },
+      {
+        "Text": "tumors",
+        "Score": 0.9999381303787231
+      },
+      {
+        "Text": "these cancers",
+        "Score": 0.999933123588562
+      },
+      {
+        "Text": "the absolute number",
+        "Score": 0.9999310374259949
+      },
+      {
+        "Text": "an uptick",
+        "Score": 0.9999295473098755
+      },
+      {
+        "Text": "the total",
+        "Score": 0.99992835521698
+      },
+      {
+        "Text": "dr. destounis",
+        "Score": 0.9999268054962158
+      },
+      {
+        "Text": "younger women",
+        "Score": 0.9999261498451233
+      },
+      {
+        "Text": "the types",
+        "Score": 0.9999251365661621
+      },
+      {
+        "Text": "a younger age",
+        "Score": 0.9999241232872009
+      },
+      {
+        "Text": "records",
+        "Score": 0.9999239444732666
+      },
+      {
+        "Text": "diagnosis",
+        "Score": 0.999922513961792
+      },
+      {
+        "Text": "some women",
+        "Score": 0.9999215602874756
+      },
+      {
+        "Text": "this problem",
+        "Score": 0.9999179244041443
+      },
+      {
+        "Text": "breast cancer",
+        "Score": 0.9999159574508667
+      },
+      {
+        "Text": "younger patients",
+        "Score": 0.9999144673347473
+      },
+      {
+        "Text": "a group",
+        "Score": 0.9999130368232727
+      },
+      {
+        "Text": "common hormone-based therapies",
+        "Score": 0.999910831451416
+      },
+      {
+        "Text": "an important point",
+        "Score": 0.999910295009613
+      },
+      {
+        "Text": "every case",
+        "Score": 0.9999028444290161
+      },
+      {
+        "Text": "time",
+        "Score": 0.9999016523361206
+      },
+      {
+        "Text": "north america",
+        "Score": 0.9998998641967773
+      },
+      {
+        "Text": "risk",
+        "Score": 0.9998922348022461
+      },
+      {
+        "Text": "seven outpatient facilities",
+        "Score": 0.9998916387557983
+      },
+      {
+        "Text": "trends",
+        "Score": 0.9998865127563477
+      },
+      {
+        "Text": "this age group",
+        "Score": 0.9998836517333984
+      },
+      {
+        "Text": "details",
+        "Score": 0.9998823404312134
+      },
+      {
+        "Text": "the type",
+        "Score": 0.999872624874115
+      },
+      {
+        "Text": "40",
+        "Score": 0.9998700618743896
+      },
+      {
+        "Text": "the breast",
+        "Score": 0.9998674988746643
+      },
+      {
+        "Text": "experts",
+        "Score": 0.9998553991317749
+      },
+      {
+        "Text": "731 cancers",
+        "Score": 0.9998546242713928
+      },
+      {
+        "Text": "this data",
+        "Score": 0.9998496770858765
+      },
+      {
+        "Text": "age 45",
+        "Score": 0.9998452663421631
+      },
+      {
+        "Text": "breast changes",
+        "Score": 0.9998435974121094
+      },
+      {
+        "Text": "fewer young women",
+        "Score": 0.9998257756233215
+      },
+      {
+        "Text": "1,799 breast cancers",
+        "Score": 0.9998247027397156
+      },
+      {
+        "Text": "age 74",
+        "Score": 0.99980628490448
+      },
+      {
+        "Text": "physicians",
+        "Score": 0.9997990727424622
+      },
+      {
+        "Text": "a stable and substantial share",
+        "Score": 0.9997966885566711
+      },
+      {
+        "Text": "rsna",
+        "Score": 0.9997872710227966
+      },
+      {
+        "Text": "each year",
+        "Score": 0.9997835159301758
+      },
+      {
+        "Text": "age 30",
+        "Score": 0.9997711777687073
+      },
+      {
+        "Text": "42.6 years",
+        "Score": 0.9997603893280029
+      },
+      {
+        "Text": "1,451 cases",
+        "Score": 0.9997591376304626
+      },
+      {
+        "Text": "age 40",
+        "Score": 0.9997560977935791
+      },
+      {
+        "Text": "a strong family history",
+        "Score": 0.9997559785842896
+      },
+      {
+        "Text": "certain minorities",
+        "Score": 0.9997113347053528
+      },
+      {
+        "Text": "earlier, risk-tailored screening approaches",
+        "Score": 0.9996612071990967
+      },
+      {
+        "Text": "age",
+        "Score": 0.9995872378349304
+      },
+      {
+        "Text": "age-based screening cutoffs",
+        "Score": 0.9995822906494141
+      },
+      {
+        "Text": "clinical imaging reports",
+        "Score": 0.99957674741745
+      },
+      {
+        "Text": "consideration",
+        "Score": 0.9995688796043396
+      },
+      {
+        "Text": "the radiological society",
+        "Score": 0.9995266795158386
+      },
+      {
+        "Text": "higher risk",
+        "Score": 0.9994853138923645
+      },
+      {
+        "Text": "1,068",
+        "Score": 0.9994783997535706
+      },
+      {
+        "Text": "default",
+        "Score": 0.9994370341300964
+      },
+      {
+        "Text": "average risk",
+        "Score": 0.9994242191314697
+      },
+      {
+        "Text": "ewbc",
+        "Score": 0.9994206428527832
+      },
+      {
+        "Text": "earlier detection",
+        "Score": 0.9994205236434937
+      },
+      {
+        "Text": "risk assessment",
+        "Score": 0.999395489692688
+      },
+      {
+        "Text": "primary breast cancer",
+        "Score": 0.9993925094604492
+      },
+      {
+        "Text": "content",
+        "Score": 0.9992393255233765
+      },
+      {
+        "Text": "stamatia destounis",
+        "Score": 0.9992228150367737
+      },
+      {
+        "Text": "the breast cancer burden",
+        "Score": 0.9992145895957947
+      },
+      {
+        "Text": "style and length",
+        "Score": 0.9991733431816101
+      },
+      {
+        "Text": "a gap",
+        "Score": 0.9991094470024109
+      },
+      {
+        "Text": "145 to 196",
+        "Score": 0.9991015791893005
+      },
+      {
+        "Text": "the u.s. preventive services task force",
+        "Score": 0.9990668296813965
+      },
+      {
+        "Text": "detailed information",
+        "Score": 0.9990032911300659
+      },
+      {
+        "Text": "2014",
+        "Score": 0.9989997744560242
+      },
+      {
+        "Text": "every four breast cancers",
+        "Score": 0.9989762306213379
+      },
+      {
+        "Text": "59%",
+        "Score": 0.9989676475524902
+      },
+      {
+        "Text": "radiological society",
+        "Score": 0.9989519119262695
+      },
+      {
+        "Text": "no established guidelines",
+        "Score": 0.9989013671875
+      },
+      {
+        "Text": "materials",
+        "Score": 0.9988569021224976
+      },
+      {
+        "Text": "yearly mammograms",
+        "Score": 0.9988322854042053
+      },
+      {
+        "Text": "age subgroups",
+        "Score": 0.9987460374832153
+      },
+      {
+        "Text": "diagnostic evaluation",
+        "Score": 0.9986985921859741
+      },
+      {
+        "Text": "the study period",
+        "Score": 0.9986836910247803
+      },
+      {
+        "Text": "347",
+        "Score": 0.9986816048622131
+      },
+      {
+        "Text": "all breast cancers",
+        "Score": 0.9984122514724731
+      },
+      {
+        "Text": "every other year",
+        "Score": 0.9982658624649048
+      },
+      {
+        "Text": "current screening advice",
+        "Score": 0.9981650114059448
+      },
+      {
+        "Text": "18 to 49",
+        "Score": 0.998098611831665
+      },
+      {
+        "Text": "a mammogram",
+        "Score": 0.9979568123817444
+      },
+      {
+        "Text": "20 to 24%",
+        "Score": 0.997944712638855
+      },
+      {
+        "Text": "this page",
+        "Score": 0.9978888630867004
+      },
+      {
+        "Text": "detection method",
+        "Score": 0.997769296169281
+      },
+      {
+        "Text": "younger women dr. destounis",
+        "Score": 0.9975883364677429
+      },
+      {
+        "Text": "50",
+        "Score": 0.9974682331085205
+      },
+      {
+        "Text": "41%",
+        "Score": 0.9974207878112793
+      },
+      {
+        "Text": "a form",
+        "Score": 0.997245192527771
+      },
+      {
+        "Text": "diagnosed cancers",
+        "Score": 0.9965038895606995
+      },
+      {
+        "Text": "no screening guidelines",
+        "Score": 0.9961634874343872
+      },
+      {
+        "Text": "80.7%",
+        "Score": 0.9961010217666626
+      },
+      {
+        "Text": "research",
+        "Score": 0.9960324168205261
+      },
+      {
+        "Text": "steady incidence",
+        "Score": 0.9959750771522522
+      },
+      {
+        "Text": "2024",
+        "Score": 0.9958256483078003
+      },
+      {
+        "Text": "the 18 to 49 age group",
+        "Score": 0.9952978491783142
+      },
+      {
+        "Text": "high risk",
+        "Score": 0.9942180514335632
+      },
+      {
+        "Text": "more intensive screening",
+        "Score": 0.993768036365509
+      },
+      {
+        "Text": "breast cancer diagnoses",
+        "Score": 0.9934720993041992
+      },
+      {
+        "Text": "a breast mri",
+        "Score": 0.9920057654380798
+      },
+      {
+        "Text": "aggressive types",
+        "Score": 0.9916892051696777
+      },
+      {
+        "Text": "that combination",
+        "Score": 0.9915627837181091
+      },
+      {
+        "Text": "the research",
+        "Score": 0.9911683201789856
+      },
+      {
+        "Text": "personal and family history",
+        "Score": 0.9906979203224182
+      },
+      {
+        "Text": "one quarter",
+        "Score": 0.9905420541763306
+      },
+      {
+        "Text": "diagnoses",
+        "Score": 0.9895955920219421
+      },
+      {
+        "Text": "growing national data sets",
+        "Score": 0.989190399646759
+      },
+      {
+        "Text": "b.s.",
+        "Score": 0.9890812635421753
+      },
+      {
+        "Text": "m.d.",
+        "Score": 0.9887887835502625
+      },
+      {
+        "Text": "a long-term concern dr. destounis",
+        "Score": 0.9882975816726685
+      },
+      {
+        "Text": "recommended screening ages",
+        "Score": 0.9875288009643555
+      },
+      {
+        "Text": "19.3%",
+        "Score": 0.9872913360595703
+      },
+      {
+        "Text": "closer attention",
+        "Score": 0.9872477054595947
+      },
+      {
+        "Text": "other tumor characteristics",
+        "Score": 0.9864511489868164
+      },
+      {
+        "Text": "age alone",
+        "Score": 0.9820725321769714
+      },
+      {
+        "Text": "rochester, new york",
+        "Score": 0.9789316654205322
+      },
+      {
+        "Text": "40 to 44",
+        "Score": 0.9766040444374084
+      },
+      {
+        "Text": "better treatment outcomes",
+        "Score": 0.9744644165039062
+      },
+      {
+        "Text": "genetic mutation",
+        "Score": 0.971160352230072
+      },
+      {
+        "Text": "awareness and risk factors",
+        "Score": 0.9703274369239807
+      },
+      {
+        "Text": "ages 23 to 49",
+        "Score": 0.9702755212783813
+      },
+      {
+        "Text": "screening or diagnostic",
+        "Score": 0.969628095626831
+      },
+      {
+        "Text": "tumor biology",
+        "Score": 0.969558596611023
+      },
+      {
+        "Text": "story source",
+        "Score": 0.9678304195404053
+      },
+      {
+        "Text": "only 21% to 25%",
+        "Score": 0.9649151563644409
+      },
+      {
+        "Text": "about one",
+        "Score": 0.9513120055198669
+      },
+      {
+        "Text": "ewbc research manager andrea l. arieno",
+        "Score": 0.9432703852653503
+      },
+      {
+        "Text": "disproportionately aggressive biology",
+        "Score": 0.9414844512939453
+      },
+      {
+        "Text": "screening",
+        "Score": 0.9400482773780823
+      },
+      {
+        "Text": "younger women consistently account",
+        "Score": 0.9384678602218628
+      },
+      {
+        "Text": "low risk",
+        "Score": 0.9339348673820496
+      },
+      {
+        "Text": "screening decisions",
+        "Score": 0.9299852848052979
+      },
+      {
+        "Text": "18 and 49 years",
+        "Score": 0.926027774810791
+      },
+      {
+        "Text": "radiologist elizabeth wende breast care",
+        "Score": 0.9250619411468506
+      },
+      {
+        "Text": "stable numbers suggest",
+        "Score": 0.861865758895874
+      },
+      {
+        "Text": "ethnic backgrounds",
+        "Score": 0.8546507954597473
+      },
+      {
+        "Text": "most diagnosed cancers",
+        "Score": 0.8111236691474915
+      },
+      {
+        "Text": "the review",
+        "Score": 0.7905817627906799
+      },
+      {
+        "Text": ", especially those",
+        "Score": 0.7243233323097229
+      },
+      {
+        "Text": "earlier",
+        "Score": 0.6665890216827393
+      },
+      {
+        "Text": "younger",
+        "Score": 0.6548880934715271
+      },
+      {
+        "Text": "mammography",
+        "Score": 0.5514397025108337
+      },
+      {
+        "Text": "invasive",
+        "Score": 0.5264122486114502
+      }
+    ],
+    "entities": [
+      {
+        "Text": "ewbc",
+        "Type": "ORGANIZATION",
+        "Score": 0.9995887875556946
+      },
+      {
+        "Text": "stamatia destounis",
+        "Type": "PERSON",
+        "Score": 0.9994612336158752
+      },
+      {
+        "Text": "destounis",
+        "Type": "PERSON",
+        "Score": 0.9993699193000793
+      },
+      {
+        "Text": "2014",
+        "Type": "DATE",
+        "Score": 0.9993316531181335
+      },
+      {
+        "Text": "andrea l. arieno",
+        "Type": "PERSON",
+        "Score": 0.9991196990013123
+      },
+      {
+        "Text": "radiological society of north america",
+        "Type": "ORGANIZATION",
+        "Score": 0.9987038373947144
+      },
+      {
+        "Text": "1,068",
+        "Type": "QUANTITY",
+        "Score": 0.9985143542289734
+      },
+      {
+        "Text": "american cancer society",
+        "Type": "ORGANIZATION",
+        "Score": 0.9984444975852966
+      },
+      {
+        "Text": "20",
+        "Type": "QUANTITY",
+        "Score": 0.9983299374580383
+      },
+      {
+        "Text": "347",
+        "Type": "QUANTITY",
+        "Score": 0.9982024431228638
+      },
+      {
+        "Text": "41%",
+        "Type": "QUANTITY",
+        "Score": 0.9980873465538025
+      },
+      {
+        "Text": "rsna",
+        "Type": "ORGANIZATION",
+        "Score": 0.9978448152542114
+      },
+      {
+        "Text": "western new york",
+        "Type": "LOCATION",
+        "Score": 0.9973611235618591
+      },
+      {
+        "Text": "42.6 years",
+        "Type": "QUANTITY",
+        "Score": 0.9970722198486328
+      },
+      {
+        "Text": "19.3%",
+        "Type": "QUANTITY",
+        "Score": 0.9966841340065002
+      },
+      {
+        "Text": "59%",
+        "Type": "QUANTITY",
+        "Score": 0.996618926525116
+      },
+      {
+        "Text": "1,451 cases",
+        "Type": "QUANTITY",
+        "Score": 0.9964504837989807
+      },
+      {
+        "Text": "731 cancers",
+        "Type": "QUANTITY",
+        "Score": 0.9963154196739197
+      },
+      {
+        "Text": "new york",
+        "Type": "LOCATION",
+        "Score": 0.996267557144165
+      },
+      {
+        "Text": "18",
+        "Type": "QUANTITY",
+        "Score": 0.9959681034088135
+      },
+      {
+        "Text": "rochester, new york",
+        "Type": "LOCATION",
+        "Score": 0.9956096410751343
+      },
+      {
+        "Text": "1,290 women",
+        "Type": "QUANTITY",
+        "Score": 0.9954736828804016
+      },
+      {
+        "Text": "each year",
+        "Type": "QUANTITY",
+        "Score": 0.994367778301239
+      },
+      {
+        "Text": "80.7%",
+        "Type": "QUANTITY",
+        "Score": 0.9921797513961792
+      },
+      {
+        "Text": "145",
+        "Type": "QUANTITY",
+        "Score": 0.992067813873291
+      },
+      {
+        "Text": "seven outpatient centers",
+        "Type": "QUANTITY",
+        "Score": 0.9910802841186523
+      },
+      {
+        "Text": "u.s. preventive services task force",
+        "Type": "ORGANIZATION",
+        "Score": 0.9879615902900696
+      },
+      {
+        "Text": "196",
+        "Type": "QUANTITY",
+        "Score": 0.9868593215942383
+      },
+      {
+        "Text": "2024",
+        "Type": "DATE",
+        "Score": 0.9855471849441528
+      },
+      {
+        "Text": "1,799 breast cancers",
+        "Type": "QUANTITY",
+        "Score": 0.9813287258148193
+      },
+      {
+        "Text": "49",
+        "Type": "QUANTITY",
+        "Score": 0.979880154132843
+      },
+      {
+        "Text": "25%",
+        "Type": "QUANTITY",
+        "Score": 0.9796314239501953
+      },
+      {
+        "Text": "breast care",
+        "Type": "ORGANIZATION",
+        "Score": 0.9779133200645447
+      },
+      {
+        "Text": "44",
+        "Type": "QUANTITY",
+        "Score": 0.9534425735473633
+      },
+      {
+        "Text": "21%",
+        "Type": "QUANTITY",
+        "Score": 0.9502242207527161
+      },
+      {
+        "Text": "24%",
+        "Type": "QUANTITY",
+        "Score": 0.9389188885688782
+      },
+      {
+        "Text": "dr.",
+        "Type": "PERSON",
+        "Score": 0.9302366375923157
+      },
+      {
+        "Text": "49 years old",
+        "Type": "QUANTITY",
+        "Score": 0.9237960577011108
+      },
+      {
+        "Text": "under 50",
+        "Type": "QUANTITY",
+        "Score": 0.905250608921051
+      },
+      {
+        "Text": "11-year",
+        "Type": "QUANTITY",
+        "Score": 0.8888863325119019
+      },
+      {
+        "Text": "seven outpatient facilities",
+        "Type": "QUANTITY",
+        "Score": 0.8785033226013184
+      },
+      {
+        "Text": "under 40",
+        "Type": "QUANTITY",
+        "Score": 0.855964183807373
+      },
+      {
+        "Text": "every four breast cancers",
+        "Type": "QUANTITY",
+        "Score": 0.8421576619148254
+      },
+      {
+        "Text": "aged",
+        "Type": "QUANTITY",
+        "Score": 0.8217114210128784
+      },
+      {
+        "Text": "over a 200-mile",
+        "Type": "QUANTITY",
+        "Score": 0.796067476272583
+      },
+      {
+        "Text": "about one",
+        "Type": "QUANTITY",
+        "Score": 0.7857841849327087
+      },
+      {
+        "Text": "wende",
+        "Type": "PERSON",
+        "Score": 0.7787361741065979
+      },
+      {
+        "Text": "age",
+        "Type": "QUANTITY",
+        "Score": 0.7574869990348816
+      },
+      {
+        "Text": "age 74",
+        "Type": "QUANTITY",
+        "Score": 0.7572402358055115
+      },
+      {
+        "Text": "ages",
+        "Type": "QUANTITY",
+        "Score": 0.70162034034729
+      },
+      {
+        "Text": "one quarter of diagnoses",
+        "Type": "QUANTITY",
+        "Score": 0.6955166459083557
+      },
+      {
+        "Text": "annually",
+        "Type": "QUANTITY",
+        "Score": 0.6917802095413208
+      },
+      {
+        "Text": "b.s.",
+        "Type": "ORGANIZATION",
+        "Score": 0.6596276164054871
+      },
+      {
+        "Text": "all breast cancers",
+        "Type": "QUANTITY",
+        "Score": 0.6401264667510986
+      },
+      {
+        "Text": "m.d.",
+        "Type": "PERSON",
+        "Score": 0.6244348883628845
+      },
+      {
+        "Text": "elizabeth",
+        "Type": "ORGANIZATION",
+        "Score": 0.6188334226608276
+      },
+      {
+        "Text": "age 30",
+        "Type": "QUANTITY",
+        "Score": 0.6156234741210938
+      },
+      {
+        "Text": "every case",
+        "Type": "QUANTITY",
+        "Score": 0.5905604362487793
+      },
+      {
+        "Text": "yearly",
+        "Type": "QUANTITY",
+        "Score": 0.5902998447418213
+      },
+      {
+        "Text": "40",
+        "Type": "QUANTITY",
+        "Score": 0.5770658254623413
+      },
+      {
+        "Text": "23",
+        "Type": "QUANTITY",
+        "Score": 0.5651878118515015
+      },
+      {
+        "Text": "triple",
+        "Type": "QUANTITY",
+        "Score": 0.5549544095993042
+      },
+      {
+        "Text": "over",
+        "Type": "QUANTITY",
+        "Score": 0.5330526828765869
+      },
+      {
+        "Text": "45",
+        "Type": "QUANTITY",
+        "Score": 0.5117760300636292
+      }
+    ],
+    "total_bytes": 5385,
+    "chunks_count": 2
+  },
+  "chunks": [
+    {
+      "sentiment": {
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+          "Positive": 0.0006327051087282598,
+          "Negative": 0.0017130300402641296,
+          "Neutral": 0.9976344108581543,
+          "Mixed": 1.983853871934116e-05
+        },
+        "ResponseMetadata": {
+          "RequestId": "8b71792f-06cc-4d6c-ab93-ac2de1171523",
+          "HTTPStatusCode": 200,
+          "HTTPHeaders": {
+            "x-amzn-requestid": "8b71792f-06cc-4d6c-ab93-ac2de1171523",
+            "content-type": "application/x-amz-json-1.1",
+            "content-length": "165",
+            "date": "Thu, 11 Dec 2025 19:32:05 GMT"
+          },
+          "RetryAttempts": 0
+        }
+      },
+      "key_phrases": [
+        {
+          "Score": 0.9999579787254333,
+          "Text": "An analysis",
+          "BeginOffset": 0,
+          "EndOffset": 11
+        },
+        {
+          "Score": 0.9999239444732666,
+          "Text": "records",
+          "BeginOffset": 15,
+          "EndOffset": 22
+        },
+        {
+          "Score": 0.9999434351921082,
+          "Text": "seven outpatient centers",
+          "BeginOffset": 28,
+          "EndOffset": 52
+        },
+        {
+          "Score": 0.9999586343765259,
+          "Text": "the New York region",
+          "BeginOffset": 56,
+          "EndOffset": 75
+        },
+        {
+          "Score": 0.997944712638855,
+          "Text": "20 to 24%",
+          "BeginOffset": 87,
+          "EndOffset": 96
+        },
+        {
+          "Score": 0.9984122514724731,
+          "Text": "all breast cancers",
+          "BeginOffset": 100,
+          "EndOffset": 118
+        },
+        {
+          "Score": 0.9999656677246094,
+          "Text": "an 11-year span",
+          "BeginOffset": 134,
+          "EndOffset": 149
+        },
+        {
+          "Score": 0.9999827146530151,
+          "Text": "women",
+          "BeginOffset": 162,
+          "EndOffset": 167
+        },
+        {
+          "Score": 0.926027774810791,
+          "Text": "18 and 49 years",
+          "BeginOffset": 176,
+          "EndOffset": 191
+        },
+        {
+          "Score": 0.9999507665634155,
+          "Text": "These findings",
+          "BeginOffset": 197,
+          "EndOffset": 211
+        },
+        {
+          "Score": 0.9999801516532898,
+          "Text": "the annual meeting",
+          "BeginOffset": 235,
+          "EndOffset": 253
+        },
+        {
+          "Score": 0.9995266795158386,
+          "Text": "the Radiological Society",
+          "BeginOffset": 257,
+          "EndOffset": 281
+        },
+        {
+          "Score": 0.9996969699859619,
+          "Text": "North America",
+          "BeginOffset": 285,
+          "EndOffset": 298
+        },
+        {
+          "Score": 0.9997872710227966,
+          "Text": "RSNA",
+          "BeginOffset": 300,
+          "EndOffset": 304
+        },
+        {
+          "Score": 0.9999433755874634,
+          "Text": "This research",
+          "BeginOffset": 308,
+          "EndOffset": 321
+        },
+        {
+          "Score": 0.9999450445175171,
+          "Text": "a significant proportion",
+          "BeginOffset": 333,
+          "EndOffset": 357
+        },
+        {
+          "Score": 0.9999861717224121,
+          "Text": "cancers",
+          "BeginOffset": 361,
+          "EndOffset": 368
+        },
+        {
+          "Score": 0.9999752044677734,
+          "Text": "women",
+          "BeginOffset": 386,
+          "EndOffset": 391
+        },
+        {
+          "Score": 0.9998700618743896,
+          "Text": "40",
+          "BeginOffset": 398,
+          "EndOffset": 400
+        },
+        {
+          "Score": 0.9999130368232727,
+          "Text": "a group",
+          "BeginOffset": 402,
+          "EndOffset": 409
+        },
+        {
+          "Score": 0.9961634874343872,
+          "Text": "no screening guidelines",
+          "BeginOffset": 429,
+          "EndOffset": 452
+        },
+        {
+          "Score": 0.999940812587738,
+          "Text": "this time",
+          "BeginOffset": 456,
+          "EndOffset": 465
+        },
+        {
+          "Score": 0.9992228150367737,
+          "Text": "Stamatia Destounis",
+          "BeginOffset": 473,
+          "EndOffset": 491
+        },
+        {
+          "Score": 0.9887887835502625,
+          "Text": "M.D.",
+          "BeginOffset": 493,
+          "EndOffset": 497
+        },
+        {
+          "Score": 0.9250619411468506,
+          "Text": "radiologist Elizabeth Wende Breast Care",
+          "BeginOffset": 499,
+          "EndOffset": 538
+        },
+        {
+          "Score": 0.9994206428527832,
+          "Text": "EWBC",
+          "BeginOffset": 540,
+          "EndOffset": 544
+        },
+        {
+          "Score": 0.9789316654205322,
+          "Text": "Rochester, New York",
+          "BeginOffset": 549,
+          "EndOffset": 568
+        },
+        {
+          "Score": 0.9995688796043396,
+          "Text": "Consideration",
+          "BeginOffset": 571,
+          "EndOffset": 584
+        },
+        {
+          "Score": 0.9997990727424622,
+          "Text": "physicians",
+          "BeginOffset": 602,
+          "EndOffset": 612
+        },
+        {
+          "Score": 0.9999850988388062,
+          "Text": "women",
+          "BeginOffset": 624,
+          "EndOffset": 629
+        },
+        {
+          "Score": 0.9998836517333984,
+          "Text": "this age group",
+          "BeginOffset": 633,
+          "EndOffset": 647
+        },
+        {
+          "Score": 0.9988423585891724,
+          "Text": "risk assessment",
+          "BeginOffset": 662,
+          "EndOffset": 677
+        },
+        {
+          "Score": 0.993768036365509,
+          "Text": "more intensive screening",
+          "BeginOffset": 726,
+          "EndOffset": 750
+        },
+        {
+          "Score": 0.9927676320075989,
+          "Text": "higher risk",
+          "BeginOffset": 764,
+          "EndOffset": 775
+        },
+        {
+          "Score": 0.989190399646759,
+          "Text": "Growing national data sets",
+          "BeginOffset": 778,
+          "EndOffset": 804
+        },
+        {
+          "Score": 0.9999295473098755,
+          "Text": "an uptick",
+          "BeginOffset": 831,
+          "EndOffset": 840
+        },
+        {
+          "Score": 0.9997600317001343,
+          "Text": "breast cancer",
+          "BeginOffset": 844,
+          "EndOffset": 857
+        },
+        {
+          "Score": 0.9999261498451233,
+          "Text": "younger women",
+          "BeginOffset": 864,
+          "EndOffset": 877
+        },
+        {
+          "Score": 0.9998553991317749,
+          "Text": "experts",
+          "BeginOffset": 900,
+          "EndOffset": 907
+        },
+        {
+          "Score": 0.9875288009643555,
+          "Text": "recommended screening ages",
+          "BeginOffset": 922,
+          "EndOffset": 948
+        },
+        {
+          "Score": 0.9999490976333618,
+          "Text": "patients",
+          "BeginOffset": 957,
+          "EndOffset": 965
+        },
+        {
+          "Score": 0.9998922348022461,
+          "Text": "risk",
+          "BeginOffset": 984,
+          "EndOffset": 988
+        },
+        {
+          "Score": 0.9981650114059448,
+          "Text": "Current Screening Advice",
+          "BeginOffset": 990,
+          "EndOffset": 1014
+        },
+        {
+          "Score": 0.9991094470024109,
+          "Text": "a Gap",
+          "BeginOffset": 1022,
+          "EndOffset": 1027
+        },
+        {
+          "Score": 0.9986438751220703,
+          "Text": "Younger Patients",
+          "BeginOffset": 1032,
+          "EndOffset": 1048
+        },
+        {
+          "Score": 0.9999476671218872,
+          "Text": "women",
+          "BeginOffset": 1053,
+          "EndOffset": 1058
+        },
+        {
+          "Score": 0.9994242191314697,
+          "Text": "average risk",
+          "BeginOffset": 1070,
+          "EndOffset": 1082
+        },
+        {
+          "Score": 0.9990668296813965,
+          "Text": "the U.S. Preventive Services Task Force",
+          "BeginOffset": 1084,
+          "EndOffset": 1123
+        },
+        {
+          "Score": 0.5514397025108337,
+          "Text": "mammography",
+          "BeginOffset": 1135,
+          "EndOffset": 1146
+        },
+        {
+          "Score": 0.9982658624649048,
+          "Text": "every other year",
+          "BeginOffset": 1147,
+          "EndOffset": 1163
+        },
+        {
+          "Score": 0.9997560977935791,
+          "Text": "age 40",
+          "BeginOffset": 1177,
+          "EndOffset": 1183
+        },
+        {
+          "Score": 0.99980628490448,
+          "Text": "age 74",
+          "BeginOffset": 1205,
+          "EndOffset": 1211
+        },
+        {
+          "Score": 0.9999561905860901,
+          "Text": "The American Cancer Society",
+          "BeginOffset": 1213,
+          "EndOffset": 1240
+        },
+        {
+          "Score": 0.9988322854042053,
+          "Text": "yearly mammograms",
+          "BeginOffset": 1252,
+          "EndOffset": 1269
+        },
+        {
+          "Score": 0.9998452663421631,
+          "Text": "age 45",
+          "BeginOffset": 1282,
+          "EndOffset": 1288
+        },
+        {
+          "Score": 0.9766040444374084,
+          "Text": "40 to 44",
+          "BeginOffset": 1329,
+          "EndOffset": 1337
+        },
+        {
+          "Score": 0.9999021291732788,
+          "Text": "Women",
+          "BeginOffset": 1339,
+          "EndOffset": 1344
+        },
+        {
+          "Score": 0.9942180514335632,
+          "Text": "high risk",
+          "BeginOffset": 1367,
+          "EndOffset": 1376
+        },
+        {
+          "Score": 0.9920057654380798,
+          "Text": "a breast MRI",
+          "BeginOffset": 1403,
+          "EndOffset": 1415
+        },
+        {
+          "Score": 0.9979568123817444,
+          "Text": "a mammogram",
+          "BeginOffset": 1420,
+          "EndOffset": 1431
+        },
+        {
+          "Score": 0.9994618892669678,
+          "Text": "each year",
+          "BeginOffset": 1432,
+          "EndOffset": 1441
+        },
+        {
+          "Score": 0.9997711777687073,
+          "Text": "age 30",
+          "BeginOffset": 1459,
+          "EndOffset": 1465
+        },
+        {
+          "Score": 0.9989013671875,
+          "Text": "no established guidelines",
+          "BeginOffset": 1487,
+          "EndOffset": 1512
+        },
+        {
+          "Score": 0.9996614456176758,
+          "Text": "women",
+          "BeginOffset": 1517,
+          "EndOffset": 1522
+        },
+        {
+          "Score": 0.6548880934715271,
+          "Text": "younger",
+          "BeginOffset": 1523,
+          "EndOffset": 1530
+        },
+        {
+          "Score": 0.9911683201789856,
+          "Text": "the Research",
+          "BeginOffset": 1546,
+          "EndOffset": 1558
+        },
+        {
+          "Score": 0.762369692325592,
+          "Text": "Dr. Destounis",
+          "BeginOffset": 1573,
+          "EndOffset": 1586
+        },
+        {
+          "Score": 0.9432703852653503,
+          "Text": "EWBC research manager Andrea L. Arieno",
+          "BeginOffset": 1591,
+          "EndOffset": 1629
+        },
+        {
+          "Score": 0.9890812635421753,
+          "Text": "B.S.",
+          "BeginOffset": 1631,
+          "EndOffset": 1635
+        },
+        {
+          "Score": 0.9934720993041992,
+          "Text": "breast cancer diagnoses",
+          "BeginOffset": 1646,
+          "EndOffset": 1669
+        },
+        {
+          "Score": 0.9989997744560242,
+          "Text": "2014",
+          "BeginOffset": 1680,
+          "EndOffset": 1684
+        },
+        {
+          "Score": 0.9958256483078003,
+          "Text": "2024",
+          "BeginOffset": 1693,
+          "EndOffset": 1697
+        },
+        {
+          "Score": 0.9998916387557983,
+          "Text": "seven outpatient facilities",
+          "BeginOffset": 1705,
+          "EndOffset": 1732
+        },
+        {
+          "Score": 0.9999765157699585,
+          "Text": "a 200-mile area",
+          "BeginOffset": 1745,
+          "EndOffset": 1760
+        },
+        {
+          "Score": 0.9999656081199646,
+          "Text": "Western New York",
+          "BeginOffset": 1764,
+          "EndOffset": 1780
+        },
+        {
+          "Score": 0.9999488592147827,
+          "Text": "Their goal",
+          "BeginOffset": 1782,
+          "EndOffset": 1792
+        },
+        {
+          "Score": 0.9999028444290161,
+          "Text": "every case",
+          "BeginOffset": 1809,
+          "EndOffset": 1819
+        },
+        {
+          "Score": 0.999980092048645,
+          "Text": "women",
+          "BeginOffset": 1833,
+          "EndOffset": 1838
+        },
+        {
+          "Score": 0.998098611831665,
+          "Text": "18 to 49",
+          "BeginOffset": 1844,
+          "EndOffset": 1852
+        },
+        {
+          "Score": 0.9990032911300659,
+          "Text": "detailed information",
+          "BeginOffset": 1864,
+          "EndOffset": 1884
+        },
+        {
+          "Score": 0.99957674741745,
+          "Text": "clinical imaging reports",
+          "BeginOffset": 1890,
+          "EndOffset": 1914
+        },
+        {
+          "Score": 0.9998823404312134,
+          "Text": "details",
+          "BeginOffset": 1943,
+          "EndOffset": 1950
+        },
+        {
+          "Score": 0.9999631643295288,
+          "Text": "the cancer",
+          "BeginOffset": 1958,
+          "EndOffset": 1968
+        },
+        {
+          "Score": 0.969628095626831,
+          "Text": "screening or diagnostic",
+          "BeginOffset": 1980,
+          "EndOffset": 2003
+        },
+        {
+          "Score": 0.999872624874115,
+          "Text": "the type",
+          "BeginOffset": 2006,
+          "EndOffset": 2014
+        },
+        {
+          "Score": 0.9999871253967285,
+          "Text": "cancer",
+          "BeginOffset": 2018,
+          "EndOffset": 2024
+        },
+        {
+          "Score": 0.9864511489868164,
+          "Text": "other tumor characteristics",
+          "BeginOffset": 2029,
+          "EndOffset": 2056
+        },
+        {
+          "Score": 0.9999268054962158,
+          "Text": "Dr. Destounis",
+          "BeginOffset": 2059,
+          "EndOffset": 2072
+        },
+        {
+          "Score": 0.9999172687530518,
+          "Text": "cases",
+          "BeginOffset": 2092,
+          "EndOffset": 2097
+        },
+        {
+          "Score": 0.9993925094604492,
+          "Text": "primary breast cancer",
+          "BeginOffset": 2112,
+          "EndOffset": 2133
+        },
+        {
+          "Score": 0.9998865127563477,
+          "Text": "trends",
+          "BeginOffset": 2147,
+          "EndOffset": 2153
+        },
+        {
+          "Score": 0.9999016523361206,
+          "Text": "time",
+          "BeginOffset": 2159,
+          "EndOffset": 2163
+        },
+        {
+          "Score": 0.9987460374832153,
+          "Text": "age subgroups",
+          "BeginOffset": 2167,
+          "EndOffset": 2180
+        },
+        {
+          "Score": 0.997769296169281,
+          "Text": "detection method",
+          "BeginOffset": 2182,
+          "EndOffset": 2198
+        },
+        {
+          "Score": 0.969558596611023,
+          "Text": "tumor biology",
+          "BeginOffset": 2203,
+          "EndOffset": 2216
+        },
+        {
+          "Score": 0.9957304000854492,
+          "Text": "breast cancer",
+          "BeginOffset": 2249,
+          "EndOffset": 2262
+        },
+        {
+          "Score": 0.9999504685401917,
+          "Text": "this patient population",
+          "BeginOffset": 2275,
+          "EndOffset": 2298
+        },
+        {
+          "Score": 0.9999251365661621,
+          "Text": "the types",
+          "BeginOffset": 2329,
+          "EndOffset": 2338
+        },
+        {
+          "Score": 0.9999381303787231,
+          "Text": "tumors",
+          "BeginOffset": 2342,
+          "EndOffset": 2348
+        },
+        {
+          "Score": 0.8111236691474915,
+          "Text": "Most Diagnosed Cancers",
+          "BeginOffset": 2357,
+          "EndOffset": 2379
+        },
+        {
+          "Score": 0.5264122486114502,
+          "Text": "Invasive",
+          "BeginOffset": 2385,
+          "EndOffset": 2393
+        },
+        {
+          "Score": 0.7905817627906799,
+          "Text": "The review",
+          "BeginOffset": 2416,
+          "EndOffset": 2426
+        },
+        {
+          "Score": 0.9998247027397156,
+          "Text": "1,799 breast cancers",
+          "BeginOffset": 2438,
+          "EndOffset": 2458
+        },
+        {
+          "Score": 0.9999773502349854,
+          "Text": "1,290 women",
+          "BeginOffset": 2462,
+          "EndOffset": 2473
+        },
+        {
+          "Score": 0.9952978491783142,
+          "Text": "the 18 to 49 age group",
+          "BeginOffset": 2477,
+          "EndOffset": 2499
+        },
+        {
+          "Score": 0.9997835159301758,
+          "Text": "Each year",
+          "BeginOffset": 2501,
+          "EndOffset": 2510
+        },
+        {
+          "Score": 0.9999382495880127,
+          "Text": "the number",
+          "BeginOffset": 2512,
+          "EndOffset": 2522
+        },
+        {
+          "Score": 0.9999854564666748,
+          "Text": "cases",
+          "BeginOffset": 2526,
+          "EndOffset": 2531
+        },
+        {
+          "Score": 0.9991015791893005,
+          "Text": "145 to 196",
+          "BeginOffset": 2544,
+          "EndOffset": 2554
+        },
+        {
+          "Score": 0.9999733567237854,
+          "Text": "The average age",
+          "BeginOffset": 2556,
+          "EndOffset": 2571
+        },
+        {
+          "Score": 0.999922513961792,
+          "Text": "diagnosis",
+          "BeginOffset": 2575,
+          "EndOffset": 2584
+        },
+        {
+          "Score": 0.9997603893280029,
+          "Text": "42.6 years",
+          "BeginOffset": 2589,
+          "EndOffset": 2599
+        },
+        {
+          "Score": 0.9999228715896606,
+          "Text": "cases",
+          "BeginOffset": 2606,
+          "EndOffset": 2611
+        },
+        {
+          "Score": 0.9702755212783813,
+          "Text": "ages 23 to 49",
+          "BeginOffset": 2626,
+          "EndOffset": 2639
+        },
+        {
+          "Score": 0.9301568269729614,
+          "Text": "Screening",
+          "BeginOffset": 2641,
+          "EndOffset": 2650
+        },
+        {
+          "Score": 0.9998546242713928,
+          "Text": "731 cancers",
+          "BeginOffset": 2660,
+          "EndOffset": 2671
+        },
+        {
+          "Score": 0.9974207878112793,
+          "Text": "41%",
+          "BeginOffset": 2673,
+          "EndOffset": 2676
+        },
+        {
+          "Score": 0.9986985921859741,
+          "Text": "diagnostic evaluation",
+          "BeginOffset": 2685,
+          "EndOffset": 2706
+        },
+        {
+          "Score": 0.9994783997535706,
+          "Text": "1,068",
+          "BeginOffset": 2716,
+          "EndOffset": 2721
+        },
+        {
+          "Score": 0.9989676475524902,
+          "Text": "59%",
+          "BeginOffset": 2723,
+          "EndOffset": 2726
+        },
+        {
+          "Score": 0.99992835521698,
+          "Text": "the total",
+          "BeginOffset": 2732,
+          "EndOffset": 2741
+        },
+        {
+          "Score": 0.9997591376304626,
+          "Text": "1,451 cases",
+          "BeginOffset": 2743,
+          "EndOffset": 2754
+        },
+        {
+          "Score": 0.9961010217666626,
+          "Text": "80.7%",
+          "BeginOffset": 2756,
+          "EndOffset": 2761
+        },
+        {
+          "Score": 0.9986816048622131,
+          "Text": "347",
+          "BeginOffset": 2782,
+          "EndOffset": 2785
+        },
+        {
+          "Score": 0.9872913360595703,
+          "Text": "19.3%",
+          "BeginOffset": 2787,
+          "EndOffset": 2792
+        },
+        {
+          "Score": 0.9999194741249084,
+          "Text": "these cancers",
+          "BeginOffset": 2822,
+          "EndOffset": 2835
+        },
+        {
+          "Score": 0.9998674988746643,
+          "Text": "the breast",
+          "BeginOffset": 2884,
+          "EndOffset": 2894
+        },
+        {
+          "Score": 0.9916892051696777,
+          "Text": "aggressive types",
+          "BeginOffset": 2910,
+          "EndOffset": 2926
+        },
+        {
+          "Score": 0.9969655871391296,
+          "Text": "women",
+          "BeginOffset": 2944,
+          "EndOffset": 2949
+        },
+        {
+          "Score": 0.9992892742156982,
+          "Text": "40",
+          "BeginOffset": 2956,
+          "EndOffset": 2958
+        },
+        {
+          "Score": 0.9998639225959778,
+          "Text": "Dr. Destounis",
+          "BeginOffset": 2961,
+          "EndOffset": 2974
+        },
+        {
+          "Score": 0.997245192527771,
+          "Text": "a form",
+          "BeginOffset": 3011,
+          "EndOffset": 3017
+        },
+        {
+          "Score": 0.9996190071105957,
+          "Text": "breast cancer",
+          "BeginOffset": 3021,
+          "EndOffset": 3034
+        },
+        {
+          "Score": 0.999910831451416,
+          "Text": "common hormone-based therapies",
+          "BeginOffset": 3089,
+          "EndOffset": 3119
+        },
+        {
+          "Score": 0.9384678602218628,
+          "Text": "Younger Women Consistently Account",
+          "BeginOffset": 3122,
+          "EndOffset": 3156
+        },
+        {
+          "Score": 0.9905420541763306,
+          "Text": "One Quarter",
+          "BeginOffset": 3161,
+          "EndOffset": 3172
+        },
+        {
+          "Score": 0.9895955920219421,
+          "Text": "Diagnoses",
+          "BeginOffset": 3176,
+          "EndOffset": 3185
+        },
+        {
+          "Score": 0.9995796084403992,
+          "Text": "women",
+          "BeginOffset": 3195,
+          "EndOffset": 3200
+        },
+        {
+          "Score": 0.9544740319252014,
+          "Text": "50",
+          "BeginOffset": 3207,
+          "EndOffset": 3209
+        },
+        {
+          "Score": 0.9649151563644409,
+          "Text": "only 21% to 25%",
+          "BeginOffset": 3218,
+          "EndOffset": 3233
+        },
+        {
+          "Score": 0.9996330738067627,
+          "Text": "each year",
+          "BeginOffset": 3252,
+          "EndOffset": 3261
+        },
+        {
+          "Score": 0.9513120055198669,
+          "Text": "about one",
+          "BeginOffset": 3286,
+          "EndOffset": 3295
+        },
+        {
+          "Score": 0.9989762306213379,
+          "Text": "every four breast cancers",
+          "BeginOffset": 3303,
+          "EndOffset": 3328
+        },
+        {
+          "Score": 0.9997756481170654,
+          "Text": "younger women",
+          "BeginOffset": 3388,
+          "EndOffset": 3401
+        },
+        {
+          "Score": 0.9997966885566711,
+          "Text": "a stable and substantial share",
+          "BeginOffset": 3417,
+          "EndOffset": 3447
+        },
+        {
+          "Score": 0.9992145895957947,
+          "Text": "the breast cancer burden",
+          "BeginOffset": 3451,
+          "EndOffset": 3475
+        },
+        {
+          "Score": 0.9999586939811707,
+          "Text": "their tumors",
+          "BeginOffset": 3481,
+          "EndOffset": 3493
+        },
+        {
+          "Score": 0.9915627837181091,
+          "Text": "That combination",
+          "BeginOffset": 3542,
+          "EndOffset": 3558
+        },
+        {
+          "Score": 0.9959750771522522,
+          "Text": "steady incidence",
+          "BeginOffset": 3560,
+          "EndOffset": 3576
+        },
+        {
+          "Score": 0.9414844512939453,
+          "Text": "disproportionately aggressive biology",
+          "BeginOffset": 3582,
+          "EndOffset": 3619
+        },
+        {
+          "Score": 0.9995822906494141,
+          "Text": "age-based screening cutoffs",
+          "BeginOffset": 3641,
+          "EndOffset": 3668
+        },
+        {
+          "Score": 0.9999436736106873,
+          "Text": "the case",
+          "BeginOffset": 3685,
+          "EndOffset": 3693
+        },
+        {
+          "Score": 0.9996612071990967,
+          "Text": "earlier, risk-tailored screening approaches",
+          "BeginOffset": 3698,
+          "EndOffset": 3741
+        },
+        {
+          "Score": 0.861865758895874,
+          "Text": "Stable Numbers Suggest",
+          "BeginOffset": 3744,
+          "EndOffset": 3766
+        },
+        {
+          "Score": 0.9882975816726685,
+          "Text": "a Long-Term Concern Dr. Destounis",
+          "BeginOffset": 3767,
+          "EndOffset": 3800
+        },
+        {
+          "Score": 0.9999599456787109,
+          "Text": "the number",
+          "BeginOffset": 3823,
+          "EndOffset": 3833
+        },
+        {
+          "Score": 0.9965038895606995,
+          "Text": "diagnosed cancers",
+          "BeginOffset": 3837,
+          "EndOffset": 3854
+        },
+        {
+          "Score": 0.9999034404754639,
+          "Text": "younger women",
+          "BeginOffset": 3858,
+          "EndOffset": 3871
+        },
+        {
+          "Score": 0.9986836910247803,
+          "Text": "the study period",
+          "BeginOffset": 3910,
+          "EndOffset": 3926
+        },
+        {
+          "Score": 0.9998257756233215,
+          "Text": "fewer young women",
+          "BeginOffset": 3938,
+          "EndOffset": 3955
+        },
+        {
+          "Score": 0.9999310374259949,
+          "Text": "the absolute number",
+          "BeginOffset": 3975,
+          "EndOffset": 3994
+        },
+        {
+          "Score": 0.9999803304672241,
+          "Text": "cancers",
+          "BeginOffset": 3998,
+          "EndOffset": 4005
+        },
+        {
+          "Score": 0.9999179244041443,
+          "Text": "this problem",
+          "BeginOffset": 4035,
+          "EndOffset": 4047
+        },
+        {
+          "Score": 0.9999607801437378,
+          "Text": "a larger scale",
+          "BeginOffset": 4127,
+          "EndOffset": 4141
+        },
+        {
+          "Score": 0.9960324168205261,
+          "Text": "Research",
+          "BeginOffset": 4143,
+          "EndOffset": 4151
+        },
+        {
+          "Score": 0.6665890216827393,
+          "Text": "earlier",
+          "BeginOffset": 4174,
+          "EndOffset": 4181
+        },
+        {
+          "Score": 0.9994205236434937,
+          "Text": "earlier detection",
+          "BeginOffset": 4218,
+          "EndOffset": 4235
+        },
+        {
+          "Score": 0.9744644165039062,
+          "Text": "better treatment outcomes",
+          "BeginOffset": 4240,
+          "EndOffset": 4265
+        },
+        {
+          "Score": 0.9998496770858765,
+          "Text": "This data",
+          "BeginOffset": 4267,
+          "EndOffset": 4276
+        },
+        {
+          "Score": 0.9746126532554626,
+          "Text": "women",
+          "BeginOffset": 4293,
+          "EndOffset": 4298
+        },
+        {
+          "Score": 0.9974682331085205,
+          "Text": "50",
+          "BeginOffset": 4305,
+          "EndOffset": 4307
+        },
+        {
+          "Score": 0.7243233323097229,
+          "Text": ", especially those",
+          "BeginOffset": 4307,
+          "EndOffset": 4325
+        },
+        {
+          "Score": 0.6341255903244019,
+          "Text": "40",
+          "BeginOffset": 4332,
+          "EndOffset": 4334
+        },
+        {
+          "Score": 0.9339348673820496,
+          "Text": "low risk",
+          "BeginOffset": 4358,
+          "EndOffset": 4366
+        },
+        {
+          "Score": 0.9994370341300964,
+          "Text": "default",
+          "BeginOffset": 4371,
+          "EndOffset": 4378
+        },
+        {
+          "Score": 0.999395489692688,
+          "Text": "risk assessment",
+          "BeginOffset": 4411,
+          "EndOffset": 4426
+        },
+        {
+          "Score": 0.9703274369239807,
+          "Text": "Awareness and Risk Factors",
+          "BeginOffset": 4466,
+          "EndOffset": 4492
+        }
+      ],
+      "entities": [
+        {
+          "Score": 0.9910802841186523,
+          "Type": "QUANTITY",
+          "Text": "seven outpatient centers",
+          "BeginOffset": 28,
+          "EndOffset": 52
+        },
+        {
+          "Score": 0.996267557144165,
+          "Type": "LOCATION",
+          "Text": "New York",
+          "BeginOffset": 60,
+          "EndOffset": 68
+        },
+        {
+          "Score": 0.9983299374580383,
+          "Type": "QUANTITY",
+          "Text": "20",
+          "BeginOffset": 87,
+          "EndOffset": 89
+        },
+        {
+          "Score": 0.9389188885688782,
+          "Type": "QUANTITY",
+          "Text": "24%",
+          "BeginOffset": 93,
+          "EndOffset": 96
+        },
+        {
+          "Score": 0.6401264667510986,
+          "Type": "QUANTITY",
+          "Text": "all breast cancers",
+          "BeginOffset": 100,
+          "EndOffset": 118
+        },
+        {
+          "Score": 0.5330526828765869,
+          "Type": "QUANTITY",
+          "Text": "over",
+          "BeginOffset": 129,
+          "EndOffset": 133
+        },
+        {
+          "Score": 0.8888863325119019,
+          "Type": "QUANTITY",
+          "Text": "11-year",
+          "BeginOffset": 137,
+          "EndOffset": 144
+        },
+        {
+          "Score": 0.9648813605308533,
+          "Type": "QUANTITY",
+          "Text": "18",
+          "BeginOffset": 176,
+          "EndOffset": 178
+        },
+        {
+          "Score": 0.9237960577011108,
+          "Type": "QUANTITY",
+          "Text": "49 years old",
+          "BeginOffset": 183,
+          "EndOffset": 195
+        },
+        {
+          "Score": 0.9987038373947144,
+          "Type": "ORGANIZATION",
+          "Text": "Radiological Society of North America",
+          "BeginOffset": 261,
+          "EndOffset": 298
+        },
+        {
+          "Score": 0.9978448152542114,
+          "Type": "ORGANIZATION",
+          "Text": "RSNA",
+          "BeginOffset": 300,
+          "EndOffset": 304
+        },
+        {
+          "Score": 0.855964183807373,
+          "Type": "QUANTITY",
+          "Text": "under 40",
+          "BeginOffset": 392,
+          "EndOffset": 400
+        },
+        {
+          "Score": 0.9994612336158752,
+          "Type": "PERSON",
+          "Text": "Stamatia Destounis",
+          "BeginOffset": 473,
+          "EndOffset": 491
+        },
+        {
+          "Score": 0.6244348883628845,
+          "Type": "PERSON",
+          "Text": "M.D.",
+          "BeginOffset": 493,
+          "EndOffset": 497
+        },
+        {
+          "Score": 0.6188334226608276,
+          "Type": "ORGANIZATION",
+          "Text": "Elizabeth",
+          "BeginOffset": 511,
+          "EndOffset": 520
+        },
+        {
+          "Score": 0.7787361741065979,
+          "Type": "PERSON",
+          "Text": "Wende",
+          "BeginOffset": 521,
+          "EndOffset": 526
+        },
+        {
+          "Score": 0.9779133200645447,
+          "Type": "ORGANIZATION",
+          "Text": "Breast Care",
+          "BeginOffset": 527,
+          "EndOffset": 538
+        },
+        {
+          "Score": 0.9980175495147705,
+          "Type": "ORGANIZATION",
+          "Text": "EWBC",
+          "BeginOffset": 540,
+          "EndOffset": 544
+        },
+        {
+          "Score": 0.9956096410751343,
+          "Type": "LOCATION",
+          "Text": "Rochester, New York",
+          "BeginOffset": 549,
+          "EndOffset": 568
+        },
+        {
+          "Score": 0.9879615902900696,
+          "Type": "ORGANIZATION",
+          "Text": "U.S. Preventive Services Task Force",
+          "BeginOffset": 1088,
+          "EndOffset": 1123
+        },
+        {
+          "Score": 0.699447512626648,
+          "Type": "QUANTITY",
+          "Text": "age",
+          "BeginOffset": 1177,
+          "EndOffset": 1180
+        },
+        {
+          "Score": 0.5770658254623413,
+          "Type": "QUANTITY",
+          "Text": "40",
+          "BeginOffset": 1181,
+          "EndOffset": 1183
+        },
+        {
+          "Score": 0.7572402358055115,
+          "Type": "QUANTITY",
+          "Text": "age 74",
+          "BeginOffset": 1205,
+          "EndOffset": 1211
+        },
+        {
+          "Score": 0.9984444975852966,
+          "Type": "ORGANIZATION",
+          "Text": "American Cancer Society",
+          "BeginOffset": 1217,
+          "EndOffset": 1240
+        },
+        {
+          "Score": 0.5902998447418213,
+          "Type": "QUANTITY",
+          "Text": "yearly",
+          "BeginOffset": 1252,
+          "EndOffset": 1258
+        },
+        {
+          "Score": 0.7574869990348816,
+          "Type": "QUANTITY",
+          "Text": "age",
+          "BeginOffset": 1282,
+          "EndOffset": 1285
+        },
+        {
+          "Score": 0.5117760300636292,
+          "Type": "QUANTITY",
+          "Text": "45",
+          "BeginOffset": 1286,
+          "EndOffset": 1288
+        },
+        {
+          "Score": 0.6301515102386475,
+          "Type": "QUANTITY",
+          "Text": "aged",
+          "BeginOffset": 1324,
+          "EndOffset": 1328
+        },
+        {
+          "Score": 0.5581443905830383,
+          "Type": "QUANTITY",
+          "Text": "40",
+          "BeginOffset": 1329,
+          "EndOffset": 1331
+        },
+        {
+          "Score": 0.9534425735473633,
+          "Type": "QUANTITY",
+          "Text": "44",
+          "BeginOffset": 1335,
+          "EndOffset": 1337
+        },
+        {
+          "Score": 0.9844313263893127,
+          "Type": "QUANTITY",
+          "Text": "each year",
+          "BeginOffset": 1432,
+          "EndOffset": 1441
+        },
+        {
+          "Score": 0.6156234741210938,
+          "Type": "QUANTITY",
+          "Text": "age 30",
+          "BeginOffset": 1459,
+          "EndOffset": 1465
+        },
+        {
+          "Score": 0.9971911311149597,
+          "Type": "PERSON",
+          "Text": "Destounis",
+          "BeginOffset": 1577,
+          "EndOffset": 1586
+        },
+        {
+          "Score": 0.9995887875556946,
+          "Type": "ORGANIZATION",
+          "Text": "EWBC",
+          "BeginOffset": 1591,
+          "EndOffset": 1595
+        },
+        {
+          "Score": 0.9991196990013123,
+          "Type": "PERSON",
+          "Text": "Andrea L. Arieno",
+          "BeginOffset": 1613,
+          "EndOffset": 1629
+        },
+        {
+          "Score": 0.6596276164054871,
+          "Type": "ORGANIZATION",
+          "Text": "B.S.",
+          "BeginOffset": 1631,
+          "EndOffset": 1635
+        },
+        {
+          "Score": 0.9993316531181335,
+          "Type": "DATE",
+          "Text": "2014",
+          "BeginOffset": 1680,
+          "EndOffset": 1684
+        },
+        {
+          "Score": 0.9855471849441528,
+          "Type": "DATE",
+          "Text": "2024",
+          "BeginOffset": 1693,
+          "EndOffset": 1697
+        },
+        {
+          "Score": 0.8785033226013184,
+          "Type": "QUANTITY",
+          "Text": "seven outpatient facilities",
+          "BeginOffset": 1705,
+          "EndOffset": 1732
+        },
+        {
+          "Score": 0.796067476272583,
+          "Type": "QUANTITY",
+          "Text": "over a 200-mile",
+          "BeginOffset": 1740,
+          "EndOffset": 1755
+        },
+        {
+          "Score": 0.9973611235618591,
+          "Type": "LOCATION",
+          "Text": "Western New York",
+          "BeginOffset": 1764,
+          "EndOffset": 1780
+        },
+        {
+          "Score": 0.5905604362487793,
+          "Type": "QUANTITY",
+          "Text": "every case",
+          "BeginOffset": 1809,
+          "EndOffset": 1819
+        },
+        {
+          "Score": 0.8217114210128784,
+          "Type": "QUANTITY",
+          "Text": "aged",
+          "BeginOffset": 1839,
+          "EndOffset": 1843
+        },
+        {
+          "Score": 0.5936416983604431,
+          "Type": "QUANTITY",
+          "Text": "18",
+          "BeginOffset": 1844,
+          "EndOffset": 1846
+        },
+        {
+          "Score": 0.9212757349014282,
+          "Type": "QUANTITY",
+          "Text": "49",
+          "BeginOffset": 1850,
+          "EndOffset": 1852
+        },
+        {
+          "Score": 0.5882744789123535,
+          "Type": "PERSON",
+          "Text": "Dr.",
+          "BeginOffset": 2059,
+          "EndOffset": 2062
+        },
+        {
+          "Score": 0.9993699193000793,
+          "Type": "PERSON",
+          "Text": "Destounis",
+          "BeginOffset": 2063,
+          "EndOffset": 2072
+        },
+        {
+          "Score": 0.9813287258148193,
+          "Type": "QUANTITY",
+          "Text": "1,799 breast cancers",
+          "BeginOffset": 2438,
+          "EndOffset": 2458
+        },
+        {
+          "Score": 0.9954736828804016,
+          "Type": "QUANTITY",
+          "Text": "1,290 women",
+          "BeginOffset": 2462,
+          "EndOffset": 2473
+        },
+        {
+          "Score": 0.9959681034088135,
+          "Type": "QUANTITY",
+          "Text": "18",
+          "BeginOffset": 2481,
+          "EndOffset": 2483
+        },
+        {
+          "Score": 0.979880154132843,
+          "Type": "QUANTITY",
+          "Text": "49",
+          "BeginOffset": 2487,
+          "EndOffset": 2489
+        },
+        {
+          "Score": 0.994367778301239,
+          "Type": "QUANTITY",
+          "Text": "Each year",
+          "BeginOffset": 2501,
+          "EndOffset": 2510
+        },
+        {
+          "Score": 0.992067813873291,
+          "Type": "QUANTITY",
+          "Text": "145",
+          "BeginOffset": 2544,
+          "EndOffset": 2547
+        },
+        {
+          "Score": 0.9868593215942383,
+          "Type": "QUANTITY",
+          "Text": "196",
+          "BeginOffset": 2551,
+          "EndOffset": 2554
+        },
+        {
+          "Score": 0.9970722198486328,
+          "Type": "QUANTITY",
+          "Text": "42.6 years",
+          "BeginOffset": 2589,
+          "EndOffset": 2599
+        },
+        {
+          "Score": 0.70162034034729,
+          "Type": "QUANTITY",
+          "Text": "ages",
+          "BeginOffset": 2626,
+          "EndOffset": 2630
+        },
+        {
+          "Score": 0.5651878118515015,
+          "Type": "QUANTITY",
+          "Text": "23",
+          "BeginOffset": 2631,
+          "EndOffset": 2633
+        },
+        {
+          "Score": 0.9607664942741394,
+          "Type": "QUANTITY",
+          "Text": "49",
+          "BeginOffset": 2637,
+          "EndOffset": 2639
+        },
+        {
+          "Score": 0.9963154196739197,
+          "Type": "QUANTITY",
+          "Text": "731 cancers",
+          "BeginOffset": 2660,
+          "EndOffset": 2671
+        },
+        {
+          "Score": 0.9980873465538025,
+          "Type": "QUANTITY",
+          "Text": "41%",
+          "BeginOffset": 2673,
+          "EndOffset": 2676
+        },
+        {
+          "Score": 0.9985143542289734,
+          "Type": "QUANTITY",
+          "Text": "1,068",
+          "BeginOffset": 2716,
+          "EndOffset": 2721
+        },
+        {
+          "Score": 0.996618926525116,
+          "Type": "QUANTITY",
+          "Text": "59%",
+          "BeginOffset": 2723,
+          "EndOffset": 2726
+        },
+        {
+          "Score": 0.9964504837989807,
+          "Type": "QUANTITY",
+          "Text": "1,451 cases",
+          "BeginOffset": 2743,
+          "EndOffset": 2754
+        },
+        {
+          "Score": 0.9921797513961792,
+          "Type": "QUANTITY",
+          "Text": "80.7%",
+          "BeginOffset": 2756,
+          "EndOffset": 2761
+        },
+        {
+          "Score": 0.9982024431228638,
+          "Type": "QUANTITY",
+          "Text": "347",
+          "BeginOffset": 2782,
+          "EndOffset": 2785
+        },
+        {
+          "Score": 0.9966841340065002,
+          "Type": "QUANTITY",
+          "Text": "19.3%",
+          "BeginOffset": 2787,
+          "EndOffset": 2792
+        },
+        {
+          "Score": 0.8126677870750427,
+          "Type": "QUANTITY",
+          "Text": "under 40",
+          "BeginOffset": 2950,
+          "EndOffset": 2958
+        },
+        {
+          "Score": 0.7137461304664612,
+          "Type": "PERSON",
+          "Text": "Dr.",
+          "BeginOffset": 2961,
+          "EndOffset": 2964
+        },
+        {
+          "Score": 0.9993026256561279,
+          "Type": "PERSON",
+          "Text": "Destounis",
+          "BeginOffset": 2965,
+          "EndOffset": 2974
+        },
+        {
+          "Score": 0.5549544095993042,
+          "Type": "QUANTITY",
+          "Text": "triple",
+          "BeginOffset": 2993,
+          "EndOffset": 2999
+        },
+        {
+          "Score": 0.6955166459083557,
+          "Type": "QUANTITY",
+          "Text": "One Quarter of Diagnoses",
+          "BeginOffset": 3161,
+          "EndOffset": 3185
+        },
+        {
+          "Score": 0.8194887638092041,
+          "Type": "QUANTITY",
+          "Text": "under 50",
+          "BeginOffset": 3201,
+          "EndOffset": 3209
+        },
+        {
+          "Score": 0.9502242207527161,
+          "Type": "QUANTITY",
+          "Text": "21%",
+          "BeginOffset": 3223,
+          "EndOffset": 3226
+        },
+        {
+          "Score": 0.9796314239501953,
+          "Type": "QUANTITY",
+          "Text": "25%",
+          "BeginOffset": 3230,
+          "EndOffset": 3233
+        },
+        {
+          "Score": 0.9821770787239075,
+          "Type": "QUANTITY",
+          "Text": "each year",
+          "BeginOffset": 3252,
+          "EndOffset": 3261
+        },
+        {
+          "Score": 0.7857841849327087,
+          "Type": "QUANTITY",
+          "Text": "about one",
+          "BeginOffset": 3286,
+          "EndOffset": 3295
+        },
+        {
+          "Score": 0.8421576619148254,
+          "Type": "QUANTITY",
+          "Text": "every four breast cancers",
+          "BeginOffset": 3303,
+          "EndOffset": 3328
+        },
+        {
+          "Score": 0.6917802095413208,
+          "Type": "QUANTITY",
+          "Text": "annually",
+          "BeginOffset": 3338,
+          "EndOffset": 3346
+        },
+        {
+          "Score": 0.8367940783500671,
+          "Type": "PERSON",
+          "Text": "Dr.",
+          "BeginOffset": 3787,
+          "EndOffset": 3790
+        },
+        {
+          "Score": 0.9993556141853333,
+          "Type": "PERSON",
+          "Text": "Destounis",
+          "BeginOffset": 3791,
+          "EndOffset": 3800
+        },
+        {
+          "Score": 0.905250608921051,
+          "Type": "QUANTITY",
+          "Text": "under 50",
+          "BeginOffset": 4299,
+          "EndOffset": 4307
+        },
+        {
+          "Score": 0.7853789329528809,
+          "Type": "QUANTITY",
+          "Text": "under 40",
+          "BeginOffset": 4326,
+          "EndOffset": 4334
+        }
+      ],
+      "bytes": 4496
+    },
+    {
+      "sentiment": {
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+          "Positive": 0.024152550846338272,
+          "Negative": 0.0008725053630769253,
+          "Neutral": 0.9724413752555847,
+          "Mixed": 0.002533515216782689
+        },
+        "ResponseMetadata": {
+          "RequestId": "3163863f-fe9a-4866-8f2d-00fa3e8c7c9f",
+          "HTTPStatusCode": 200,
+          "HTTPHeaders": {
+            "x-amzn-requestid": "3163863f-fe9a-4866-8f2d-00fa3e8c7c9f",
+            "content-type": "application/x-amz-json-1.1",
+            "content-length": "164",
+            "date": "Thu, 11 Dec 2025 19:32:06 GMT"
+          },
+          "RetryAttempts": 0
+        }
+      },
+      "key_phrases": [
+        {
+          "Score": 0.9975883364677429,
+          "Text": "Younger Women Dr. Destounis",
+          "BeginOffset": 0,
+          "EndOffset": 27
+        },
+        {
+          "Score": 0.9999144673347473,
+          "Text": "younger patients",
+          "BeginOffset": 41,
+          "EndOffset": 57
+        },
+        {
+          "Score": 0.9998435974121094,
+          "Text": "breast changes",
+          "BeginOffset": 90,
+          "EndOffset": 104
+        },
+        {
+          "Score": 0.9400482773780823,
+          "Text": "screening",
+          "BeginOffset": 115,
+          "EndOffset": 124
+        },
+        {
+          "Score": 0.9999723434448242,
+          "Text": "specific situations",
+          "BeginOffset": 128,
+          "EndOffset": 147
+        },
+        {
+          "Score": 0.9997559785842896,
+          "Text": "a strong family history",
+          "BeginOffset": 161,
+          "EndOffset": 184
+        },
+        {
+          "Score": 0.971160352230072,
+          "Text": "genetic mutation",
+          "BeginOffset": 188,
+          "EndOffset": 204
+        },
+        {
+          "Score": 0.9997113347053528,
+          "Text": "certain minorities",
+          "BeginOffset": 217,
+          "EndOffset": 235
+        },
+        {
+          "Score": 0.8546507954597473,
+          "Text": "ethnic backgrounds",
+          "BeginOffset": 240,
+          "EndOffset": 258
+        },
+        {
+          "Score": 0.9994853138923645,
+          "Text": "higher risk",
+          "BeginOffset": 267,
+          "EndOffset": 278
+        },
+        {
+          "Score": 0.9999159574508667,
+          "Text": "breast cancer",
+          "BeginOffset": 283,
+          "EndOffset": 296
+        },
+        {
+          "Score": 0.9999241232872009,
+          "Text": "a younger age",
+          "BeginOffset": 300,
+          "EndOffset": 313
+        },
+        {
+          "Score": 0.9820725321769714,
+          "Text": "Age Alone",
+          "BeginOffset": 326,
+          "EndOffset": 335
+        },
+        {
+          "Score": 0.9299852848052979,
+          "Text": "Screening Decisions",
+          "BeginOffset": 354,
+          "EndOffset": 373
+        },
+        {
+          "Score": 0.9999721646308899,
+          "Text": "the study",
+          "BeginOffset": 389,
+          "EndOffset": 398
+        },
+        {
+          "Score": 0.999910295009613,
+          "Text": "an important point",
+          "BeginOffset": 410,
+          "EndOffset": 428
+        },
+        {
+          "Score": 0.9997742176055908,
+          "Text": "breast cancer",
+          "BeginOffset": 430,
+          "EndOffset": 443
+        },
+        {
+          "Score": 0.9997313022613525,
+          "Text": "younger women",
+          "BeginOffset": 447,
+          "EndOffset": 460
+        },
+        {
+          "Score": 0.9999370574951172,
+          "Text": "cases",
+          "BeginOffset": 482,
+          "EndOffset": 487
+        },
+        {
+          "Score": 0.999975323677063,
+          "Text": "this group",
+          "BeginOffset": 491,
+          "EndOffset": 501
+        },
+        {
+          "Score": 0.9995872378349304,
+          "Text": "age",
+          "BeginOffset": 549,
+          "EndOffset": 552
+        },
+        {
+          "Score": 0.9872477054595947,
+          "Text": "closer attention",
+          "BeginOffset": 612,
+          "EndOffset": 628
+        },
+        {
+          "Score": 0.9906979203224182,
+          "Text": "personal and family history",
+          "BeginOffset": 632,
+          "EndOffset": 659
+        },
+        {
+          "Score": 0.9999215602874756,
+          "Text": "some women",
+          "BeginOffset": 696,
+          "EndOffset": 706
+        },
+        {
+          "Score": 0.999933123588562,
+          "Text": "these cancers",
+          "BeginOffset": 726,
+          "EndOffset": 739
+        },
+        {
+          "Score": 0.9678304195404053,
+          "Text": "Story Source",
+          "BeginOffset": 749,
+          "EndOffset": 761
+        },
+        {
+          "Score": 0.9988569021224976,
+          "Text": "Materials",
+          "BeginOffset": 763,
+          "EndOffset": 772
+        },
+        {
+          "Score": 0.9989519119262695,
+          "Text": "Radiological Society",
+          "BeginOffset": 785,
+          "EndOffset": 805
+        },
+        {
+          "Score": 0.9998998641967773,
+          "Text": "North America",
+          "BeginOffset": 809,
+          "EndOffset": 822
+        },
+        {
+          "Score": 0.9992393255233765,
+          "Text": "Content",
+          "BeginOffset": 830,
+          "EndOffset": 837
+        },
+        {
+          "Score": 0.9991733431816101,
+          "Text": "style and length",
+          "BeginOffset": 856,
+          "EndOffset": 872
+        },
+        {
+          "Score": 0.9978888630867004,
+          "Text": "This Page",
+          "BeginOffset": 879,
+          "EndOffset": 888
+        }
+      ],
+      "entities": [
+        {
+          "Score": 0.9302366375923157,
+          "Type": "PERSON",
+          "Text": "Dr.",
+          "BeginOffset": 14,
+          "EndOffset": 17
+        },
+        {
+          "Score": 0.9992382526397705,
+          "Type": "PERSON",
+          "Text": "Destounis",
+          "BeginOffset": 18,
+          "EndOffset": 27
+        },
+        {
+          "Score": 0.998479962348938,
+          "Type": "ORGANIZATION",
+          "Text": "Radiological Society of North America",
+          "BeginOffset": 785,
+          "EndOffset": 822
+        }
+      ],
+      "bytes": 889
+    }
+  ]
+}

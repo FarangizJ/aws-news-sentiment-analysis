@@ -1,0 +1,892 @@
+{
+  "summary": {
+    "dominant_sentiment": "Neutral",
+    "sentiment_scores": {
+      "Positive": 0.01966128870844841,
+      "Negative": 0.0026424918323755264,
+      "Neutral": 0.9600057601928711,
+      "Mixed": 0.01769047975540161
+    },
+    "key_phrases": [
+      {
+        "Text": "its outcome",
+        "Score": 0.9999923706054688
+      },
+      {
+        "Text": "the lower stages",
+        "Score": 0.9999784827232361
+      },
+      {
+        "Text": "the mass",
+        "Score": 0.9999770522117615
+      },
+      {
+        "Text": "the risk",
+        "Score": 0.9999765753746033
+      },
+      {
+        "Text": "tumors",
+        "Score": 0.999975323677063
+      },
+      {
+        "Text": "the stage",
+        "Score": 0.99997478723526
+      },
+      {
+        "Text": "the tumor",
+        "Score": 0.9999710321426392
+      },
+      {
+        "Text": "the possibility",
+        "Score": 0.9999709725379944
+      },
+      {
+        "Text": "this reason",
+        "Score": 0.9999697208404541
+      },
+      {
+        "Text": "the help",
+        "Score": 0.9999691247940063
+      },
+      {
+        "Text": "rengen",
+        "Score": 0.9999651908874512
+      },
+      {
+        "Text": "regular preventive examinations",
+        "Score": 0.999963641166687
+      },
+      {
+        "Text": "this article",
+        "Score": 0.9999542236328125
+      },
+      {
+        "Text": "the entire breast",
+        "Score": 0.9999353885650635
+      },
+      {
+        "Text": "the disease",
+        "Score": 0.9999335408210754
+      },
+      {
+        "Text": "radiation",
+        "Score": 0.9999288320541382
+      },
+      {
+        "Text": "the breast",
+        "Score": 0.9999275803565979
+      },
+      {
+        "Text": "its nature",
+        "Score": 0.999925434589386
+      },
+      {
+        "Text": "1",
+        "Score": 0.9999244213104248
+      },
+      {
+        "Text": "the development",
+        "Score": 0.9999222755432129
+      },
+      {
+        "Text": "hormone levels",
+        "Score": 0.9999126195907593
+      },
+      {
+        "Text": "detection",
+        "Score": 0.9998860359191895
+      },
+      {
+        "Text": "the opportunity",
+        "Score": 0.9998597502708435
+      },
+      {
+        "Text": "karima chuliyeva",
+        "Score": 0.999859631061554
+      },
+      {
+        "Text": "the reasons",
+        "Score": 0.99985271692276
+      },
+      {
+        "Text": "the information",
+        "Score": 0.9998236298561096
+      },
+      {
+        "Text": "breast cancer",
+        "Score": 0.9998084902763367
+      },
+      {
+        "Text": "the tissues",
+        "Score": 0.9997923374176025
+      },
+      {
+        "Text": "some common symptoms",
+        "Score": 0.9997397065162659
+      },
+      {
+        "Text": "cancer cells",
+        "Score": 0.9997133016586304
+      },
+      {
+        "Text": "2",
+        "Score": 0.9996778964996338
+      },
+      {
+        "Text": "part",
+        "Score": 0.9995784163475037
+      },
+      {
+        "Text": "chemicals",
+        "Score": 0.999570906162262
+      },
+      {
+        "Text": "the national medical center",
+        "Score": 0.9995520114898682
+      },
+      {
+        "Text": "3",
+        "Score": 0.9995079040527344
+      },
+      {
+        "Text": "prevention",
+        "Score": 0.99945467710495
+      },
+      {
+        "Text": "the higher category",
+        "Score": 0.999446451663971
+      },
+      {
+        "Text": "poor diet",
+        "Score": 0.9992532134056091
+      },
+      {
+        "Text": "a laboratory setting",
+        "Score": 0.9991680383682251
+      },
+      {
+        "Text": "samples",
+        "Score": 0.9991567134857178
+      },
+      {
+        "Text": "the chest",
+        "Score": 0.9991101026535034
+      },
+      {
+        "Text": "alcohol consumption",
+        "Score": 0.9990617036819458
+      },
+      {
+        "Text": "high levels",
+        "Score": 0.9989396333694458
+      },
+      {
+        "Text": "causes, symptoms and treatment",
+        "Score": 0.9983558654785156
+      },
+      {
+        "Text": "smoking",
+        "Score": 0.9983471632003784
+      },
+      {
+        "Text": "discharge",
+        "Score": 0.9981776475906372
+      },
+      {
+        "Text": "early detection and treatment",
+        "Score": 0.9980445504188538
+      },
+      {
+        "Text": "low mobility",
+        "Score": 0.9978646636009216
+      },
+      {
+        "Text": "treatment methods",
+        "Score": 0.9978253841400146
+      },
+      {
+        "Text": "the causes, symptoms and treatment",
+        "Score": 0.9974609017372131
+      },
+      {
+        "Text": "blood or fluid",
+        "Score": 0.9972927570343018
+      },
+      {
+        "Text": "detail",
+        "Score": 0.9972659349441528
+      },
+      {
+        "Text": "the nipple diagnosis",
+        "Score": 0.9960524439811707
+      },
+      {
+        "Text": "treatment",
+        "Score": 0.9950933456420898
+      },
+      {
+        "Text": "turn-free style",
+        "Score": 0.9920181035995483
+      },
+      {
+        "Text": "estrogen and progesterone",
+        "Score": 0.9912031888961792
+      },
+      {
+        "Text": "characters",
+        "Score": 0.9864293336868286
+      },
+      {
+        "Text": "shorter periods",
+        "Score": 0.9857224225997925
+      },
+      {
+        "Text": "tingling",
+        "Score": 0.9660171270370483
+      },
+      {
+        "Text": "exposure",
+        "Score": 0.9644107818603516
+      },
+      {
+        "Text": "pregnancy and breastfeeding",
+        "Score": 0.9635341167449951
+      },
+      {
+        "Text": "hormonal factors",
+        "Score": 0.962229311466217
+      },
+      {
+        "Text": "breast shape or size",
+        "Score": 0.9550827145576477
+      },
+      {
+        "Text": "biopsy",
+        "Score": 0.9518947005271912
+      },
+      {
+        "Text": "hormonal therapy",
+        "Score": 0.9452179074287415
+      },
+      {
+        "Text": "the skin or thickening",
+        "Score": 0.9383177757263184
+      },
+      {
+        "Text": "oncogynecologist",
+        "Score": 0.9274488687515259
+      },
+      {
+        "Text": "surgery",
+        "Score": 0.9067659378051758
+      },
+      {
+        "Text": "ultrasonography",
+        "Score": 0.9055747389793396
+      },
+      {
+        "Text": "chemotherapy",
+        "Score": 0.8959288001060486
+      },
+      {
+        "Text": "pain or",
+        "Score": 0.8546026945114136
+      },
+      {
+        "Text": "radiotherapy",
+        "Score": 0.7931878566741943
+      },
+      {
+        "Text": "mammography",
+        "Score": 0.7592641711235046
+      },
+      {
+        "Text": "burning sensation",
+        "Score": 0.7480625510215759
+      },
+      {
+        "Text": "swelling",
+        "Score": 0.6287156343460083
+      }
+    ],
+    "entities": [
+      {
+        "Text": "karima chuliyeva",
+        "Type": "PERSON",
+        "Score": 0.9996481537818909
+      },
+      {
+        "Text": "national medical center",
+        "Type": "ORGANIZATION",
+        "Score": 0.9938256144523621
+      },
+      {
+        "Text": "estrogen",
+        "Type": "OTHER",
+        "Score": 0.5163511633872986
+      },
+      {
+        "Text": "progesterone",
+        "Type": "OTHER",
+        "Score": 0.4990695118904114
+      }
+    ],
+    "total_bytes": 1610,
+    "chunks_count": 1
+  },
+  "chunks": [
+    {
+      "sentiment": {
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+          "Positive": 0.01966128870844841,
+          "Negative": 0.0026424918323755264,
+          "Neutral": 0.9600057601928711,
+          "Mixed": 0.01769047975540161
+        },
+        "ResponseMetadata": {
+          "RequestId": "2a42842a-0a45-460c-86aa-36562cbb5ddf",
+          "HTTPStatusCode": 200,
+          "HTTPHeaders": {
+            "x-amzn-requestid": "2a42842a-0a45-460c-86aa-36562cbb5ddf",
+            "content-type": "application/x-amz-json-1.1",
+            "content-length": "163",
+            "date": "Thu, 11 Dec 2025 19:32:06 GMT"
+          },
+          "RetryAttempts": 0
+        }
+      },
+      "key_phrases": [
+        {
+          "Score": 0.9983558654785156,
+          "Text": "Causes, symptoms and treatment",
+          "BeginOffset": 0,
+          "EndOffset": 30
+        },
+        {
+          "Score": 0.999530017375946,
+          "Text": "breast cancer",
+          "BeginOffset": 34,
+          "EndOffset": 47
+        },
+        {
+          "Score": 0.9998597502708435,
+          "Text": "the opportunity",
+          "BeginOffset": 57,
+          "EndOffset": 72
+        },
+        {
+          "Score": 0.9972659349441528,
+          "Text": "detail",
+          "BeginOffset": 94,
+          "EndOffset": 100
+        },
+        {
+          "Score": 0.9998236298561096,
+          "Text": "the information",
+          "BeginOffset": 106,
+          "EndOffset": 121
+        },
+        {
+          "Score": 0.999859631061554,
+          "Text": "Karima Chuliyeva",
+          "BeginOffset": 125,
+          "EndOffset": 141
+        },
+        {
+          "Score": 0.9274488687515259,
+          "Text": "Oncogynecologist",
+          "BeginOffset": 143,
+          "EndOffset": 159
+        },
+        {
+          "Score": 0.999446451663971,
+          "Text": "the Higher Category",
+          "BeginOffset": 163,
+          "EndOffset": 182
+        },
+        {
+          "Score": 0.9995520114898682,
+          "Text": "the National Medical Center",
+          "BeginOffset": 186,
+          "EndOffset": 213
+        },
+        {
+          "Score": 0.9974609017372131,
+          "Text": "the causes, symptoms and treatment",
+          "BeginOffset": 220,
+          "EndOffset": 254
+        },
+        {
+          "Score": 0.9996663331985474,
+          "Text": "breast cancer",
+          "BeginOffset": 258,
+          "EndOffset": 271
+        },
+        {
+          "Score": 0.9999542236328125,
+          "Text": "this article",
+          "BeginOffset": 280,
+          "EndOffset": 292
+        },
+        {
+          "Score": 0.99985271692276,
+          "Text": "The reasons",
+          "BeginOffset": 294,
+          "EndOffset": 305
+        },
+        {
+          "Score": 0.9999244213104248,
+          "Text": "1",
+          "BeginOffset": 307,
+          "EndOffset": 308
+        },
+        {
+          "Score": 0.962229311466217,
+          "Text": "Hormonal factors",
+          "BeginOffset": 310,
+          "EndOffset": 326
+        },
+        {
+          "Score": 0.9989396333694458,
+          "Text": "High levels",
+          "BeginOffset": 328,
+          "EndOffset": 339
+        },
+        {
+          "Score": 0.9912031888961792,
+          "Text": "estrogen and progesterone",
+          "BeginOffset": 343,
+          "EndOffset": 368
+        },
+        {
+          "Score": 0.9857224225997925,
+          "Text": "shorter periods",
+          "BeginOffset": 370,
+          "EndOffset": 385
+        },
+        {
+          "Score": 0.9635341167449951,
+          "Text": "pregnancy and breastfeeding",
+          "BeginOffset": 389,
+          "EndOffset": 416
+        },
+        {
+          "Score": 0.9996778964996338,
+          "Text": "2",
+          "BeginOffset": 418,
+          "EndOffset": 419
+        },
+        {
+          "Score": 0.9920181035995483,
+          "Text": "Turn-free style",
+          "BeginOffset": 421,
+          "EndOffset": 436
+        },
+        {
+          "Score": 0.9983471632003784,
+          "Text": "Smoking",
+          "BeginOffset": 438,
+          "EndOffset": 445
+        },
+        {
+          "Score": 0.9990617036819458,
+          "Text": "alcohol consumption",
+          "BeginOffset": 447,
+          "EndOffset": 466
+        },
+        {
+          "Score": 0.9992532134056091,
+          "Text": "poor diet",
+          "BeginOffset": 468,
+          "EndOffset": 477
+        },
+        {
+          "Score": 0.9978646636009216,
+          "Text": "low mobility",
+          "BeginOffset": 483,
+          "EndOffset": 495
+        },
+        {
+          "Score": 0.9999765753746033,
+          "Text": "the risk",
+          "BeginOffset": 510,
+          "EndOffset": 518
+        },
+        {
+          "Score": 0.9864293336868286,
+          "Text": "Characters",
+          "BeginOffset": 520,
+          "EndOffset": 530
+        },
+        {
+          "Score": 0.9997397065162659,
+          "Text": "Some common symptoms",
+          "BeginOffset": 532,
+          "EndOffset": 552
+        },
+        {
+          "Score": 0.9997809529304504,
+          "Text": "breast cancer",
+          "BeginOffset": 556,
+          "EndOffset": 569
+        },
+        {
+          "Score": 0.8546026945114136,
+          "Text": "Pain or",
+          "BeginOffset": 581,
+          "EndOffset": 588
+        },
+        {
+          "Score": 0.7480625510215759,
+          "Text": "burning sensation",
+          "BeginOffset": 589,
+          "EndOffset": 606
+        },
+        {
+          "Score": 0.9991101026535034,
+          "Text": "the chest",
+          "BeginOffset": 610,
+          "EndOffset": 619
+        },
+        {
+          "Score": 0.6287156343460083,
+          "Text": "swelling",
+          "BeginOffset": 621,
+          "EndOffset": 629
+        },
+        {
+          "Score": 0.9550827145576477,
+          "Text": "breast shape or size",
+          "BeginOffset": 644,
+          "EndOffset": 664
+        },
+        {
+          "Score": 0.9660171270370483,
+          "Text": "Tingling",
+          "BeginOffset": 667,
+          "EndOffset": 675
+        },
+        {
+          "Score": 0.9383177757263184,
+          "Text": "the skin or thickening",
+          "BeginOffset": 679,
+          "EndOffset": 701
+        },
+        {
+          "Score": 0.9997923374176025,
+          "Text": "the tissues",
+          "BeginOffset": 705,
+          "EndOffset": 716
+        },
+        {
+          "Score": 0.9981776475906372,
+          "Text": "Discharge",
+          "BeginOffset": 719,
+          "EndOffset": 728
+        },
+        {
+          "Score": 0.9972927570343018,
+          "Text": "blood or fluid",
+          "BeginOffset": 732,
+          "EndOffset": 746
+        },
+        {
+          "Score": 0.9960524439811707,
+          "Text": "the nipple Diagnosis",
+          "BeginOffset": 752,
+          "EndOffset": 772
+        },
+        {
+          "Score": 0.9997619986534119,
+          "Text": "the breast",
+          "BeginOffset": 811,
+          "EndOffset": 821
+        },
+        {
+          "Score": 0.9998860359191895,
+          "Text": "detection",
+          "BeginOffset": 826,
+          "EndOffset": 835
+        },
+        {
+          "Score": 0.9999784827232361,
+          "Text": "the lower stages",
+          "BeginOffset": 839,
+          "EndOffset": 855
+        },
+        {
+          "Score": 0.9995599389076233,
+          "Text": "1",
+          "BeginOffset": 857,
+          "EndOffset": 858
+        },
+        {
+          "Score": 0.7592641711235046,
+          "Text": "Mammography",
+          "BeginOffset": 860,
+          "EndOffset": 871
+        },
+        {
+          "Score": 0.9999691247940063,
+          "Text": "the help",
+          "BeginOffset": 878,
+          "EndOffset": 886
+        },
+        {
+          "Score": 0.9999651908874512,
+          "Text": "Rengen",
+          "BeginOffset": 890,
+          "EndOffset": 896
+        },
+        {
+          "Score": 0.9999275803565979,
+          "Text": "the breast",
+          "BeginOffset": 909,
+          "EndOffset": 919
+        },
+        {
+          "Score": 0.9900611639022827,
+          "Text": "2",
+          "BeginOffset": 934,
+          "EndOffset": 935
+        },
+        {
+          "Score": 0.9055747389793396,
+          "Text": "Ultrasonography",
+          "BeginOffset": 937,
+          "EndOffset": 952
+        },
+        {
+          "Score": 0.9959568381309509,
+          "Text": "tumors",
+          "BeginOffset": 965,
+          "EndOffset": 971
+        },
+        {
+          "Score": 0.999925434589386,
+          "Text": "its nature",
+          "BeginOffset": 992,
+          "EndOffset": 1002
+        },
+        {
+          "Score": 0.9995079040527344,
+          "Text": "3",
+          "BeginOffset": 1004,
+          "EndOffset": 1005
+        },
+        {
+          "Score": 0.9518947005271912,
+          "Text": "Biopsy",
+          "BeginOffset": 1007,
+          "EndOffset": 1013
+        },
+        {
+          "Score": 0.9991567134857178,
+          "Text": "Samples",
+          "BeginOffset": 1015,
+          "EndOffset": 1022
+        },
+        {
+          "Score": 0.9999770522117615,
+          "Text": "the mass",
+          "BeginOffset": 1038,
+          "EndOffset": 1046
+        },
+        {
+          "Score": 0.9991680383682251,
+          "Text": "a laboratory setting",
+          "BeginOffset": 1063,
+          "EndOffset": 1083
+        },
+        {
+          "Score": 0.9950933456420898,
+          "Text": "Treatment",
+          "BeginOffset": 1085,
+          "EndOffset": 1094
+        },
+        {
+          "Score": 0.9978253841400146,
+          "Text": "Treatment methods",
+          "BeginOffset": 1096,
+          "EndOffset": 1113
+        },
+        {
+          "Score": 0.99997478723526,
+          "Text": "the stage",
+          "BeginOffset": 1142,
+          "EndOffset": 1151
+        },
+        {
+          "Score": 0.9999335408210754,
+          "Text": "the disease",
+          "BeginOffset": 1155,
+          "EndOffset": 1166
+        },
+        {
+          "Score": 0.9067659378051758,
+          "Text": "Surgery",
+          "BeginOffset": 1170,
+          "EndOffset": 1177
+        },
+        {
+          "Score": 0.9995784163475037,
+          "Text": "Part",
+          "BeginOffset": 1179,
+          "EndOffset": 1183
+        },
+        {
+          "Score": 0.9999710321426392,
+          "Text": "the tumor",
+          "BeginOffset": 1187,
+          "EndOffset": 1196
+        },
+        {
+          "Score": 0.9999353885650635,
+          "Text": "the entire breast",
+          "BeginOffset": 1200,
+          "EndOffset": 1217
+        },
+        {
+          "Score": 0.8959288001060486,
+          "Text": "Chemotherapy",
+          "BeginOffset": 1236,
+          "EndOffset": 1248
+        },
+        {
+          "Score": 0.999570906162262,
+          "Text": "Chemicals",
+          "BeginOffset": 1250,
+          "EndOffset": 1259
+        },
+        {
+          "Score": 0.9997133016586304,
+          "Text": "cancer cells",
+          "BeginOffset": 1277,
+          "EndOffset": 1289
+        },
+        {
+          "Score": 0.7931878566741943,
+          "Text": "Radiotherapy",
+          "BeginOffset": 1293,
+          "EndOffset": 1305
+        },
+        {
+          "Score": 0.9644107818603516,
+          "Text": "Exposure",
+          "BeginOffset": 1307,
+          "EndOffset": 1315
+        },
+        {
+          "Score": 0.9999107718467712,
+          "Text": "the tumor",
+          "BeginOffset": 1319,
+          "EndOffset": 1328
+        },
+        {
+          "Score": 0.9999288320541382,
+          "Text": "radiation",
+          "BeginOffset": 1334,
+          "EndOffset": 1343
+        },
+        {
+          "Score": 0.9452179074287415,
+          "Text": "Hormonal therapy",
+          "BeginOffset": 1347,
+          "EndOffset": 1363
+        },
+        {
+          "Score": 0.9999222755432129,
+          "Text": "the development",
+          "BeginOffset": 1374,
+          "EndOffset": 1389
+        },
+        {
+          "Score": 0.999975323677063,
+          "Text": "tumors",
+          "BeginOffset": 1393,
+          "EndOffset": 1399
+        },
+        {
+          "Score": 0.9999126195907593,
+          "Text": "hormone levels",
+          "BeginOffset": 1414,
+          "EndOffset": 1428
+        },
+        {
+          "Score": 0.99945467710495,
+          "Text": "Prevention",
+          "BeginOffset": 1430,
+          "EndOffset": 1440
+        },
+        {
+          "Score": 0.9999709725379944,
+          "Text": "The possibility",
+          "BeginOffset": 1442,
+          "EndOffset": 1457
+        },
+        {
+          "Score": 0.9980445504188538,
+          "Text": "early detection and treatment",
+          "BeginOffset": 1461,
+          "EndOffset": 1490
+        },
+        {
+          "Score": 0.9998084902763367,
+          "Text": "breast cancer",
+          "BeginOffset": 1494,
+          "EndOffset": 1507
+        },
+        {
+          "Score": 0.9999923706054688,
+          "Text": "its outcome",
+          "BeginOffset": 1534,
+          "EndOffset": 1545
+        },
+        {
+          "Score": 0.9999697208404541,
+          "Text": "this reason",
+          "BeginOffset": 1551,
+          "EndOffset": 1562
+        },
+        {
+          "Score": 0.999963641166687,
+          "Text": "regular preventive examinations",
+          "BeginOffset": 1564,
+          "EndOffset": 1595
+        }
+      ],
+      "entities": [
+        {
+          "Score": 0.9996481537818909,
+          "Type": "PERSON",
+          "Text": "Karima Chuliyeva",
+          "BeginOffset": 125,
+          "EndOffset": 141
+        },
+        {
+          "Score": 0.9938256144523621,
+          "Type": "ORGANIZATION",
+          "Text": "National Medical Center",
+          "BeginOffset": 190,
+          "EndOffset": 213
+        },
+        {
+          "Score": 0.5163511633872986,
+          "Type": "OTHER",
+          "Text": "estrogen",
+          "BeginOffset": 343,
+          "EndOffset": 351
+        },
+        {
+          "Score": 0.4990695118904114,
+          "Type": "OTHER",
+          "Text": "progesterone",
+          "BeginOffset": 356,
+          "EndOffset": 368
+        }
+      ],
+      "bytes": 1610
+    }
+  ]
+}
